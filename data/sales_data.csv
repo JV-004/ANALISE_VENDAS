@@ -1,0 +1,1001 @@
+order_id,order_date,customer,product,category,region,quantity,price,revenue,profit
+ORD-000001,2025-12-22,Ana Costa,Notebook Dell,Computadores,Centro-Oeste,4,2223.21,8892.84,2199.15
+ORD-000002,2026-01-10,Gabriela Cardoso,Teclado Mecânico,Periféricos,Sul,7,243.81,1706.67,202.65
+ORD-000003,2025-05-28,Felipe Nascimento,Microfone USB,Áudio,Norte,9,263.86,2374.74,546.14
+ORD-000004,2025-11-04,Carla Martins,Fone Bluetooth,Áudio,Sudeste,10,182.26,1822.6,499.14
+ORD-000005,2025-04-20,Carla Martins,Memória RAM 16GB,Componentes,Centro-Oeste,3,354.45,1063.35,268.71
+ORD-000006,2025-03-22,Pedro Oliveira,Processador Intel,Componentes,Norte,6,911.2,5467.2,1206.86
+ORD-000007,2025-02-20,Eduardo Ribeiro,Carregador Portátil,Acessórios,Norte,7,66.52,465.64,73.87
+ORD-000008,2025-12-16,Camila Araujo,Placa de Vídeo,Componentes,Sul,4,1298.19,5192.76,566.87
+ORD-000009,2025-05-25,Juliana Rocha,Teclado Mecânico,Periféricos,Nordeste,2,285.62,571.24,108.93
+ORD-000010,2025-08-03,Lucia Almeida,Placa de Vídeo,Componentes,Centro-Oeste,4,1281.68,5126.72,1232.28
+ORD-000011,2026-01-13,Pedro Oliveira,Microfone USB,Áudio,Nordeste,9,327.5,2947.5,391.08
+ORD-000012,2025-08-11,Ricardo Pereira,Carregador Portátil,Acessórios,Nordeste,6,90.97,545.82,139.29
+ORD-000013,2025-05-26,Maria Santos,Memória RAM 16GB,Componentes,Sudeste,5,330.59,1652.95,467.17
+ORD-000014,2025-11-15,Marcos Barbosa,Tablet iPad,Tablets,Sudeste,7,2307.75,16154.25,3692.38
+ORD-000015,2025-04-12,Ricardo Pereira,Impressora HP,Impressoras,Nordeste,9,457.02,4113.18,1025.84
+ORD-000016,2025-09-05,Thiago Moreira,Processador Intel,Componentes,Centro-Oeste,4,959.14,3836.56,489.8
+ORD-000017,2025-10-08,Pedro Oliveira,Mouse Logitech,Periféricos,Norte,3,157.65,472.95,122.22
+ORD-000018,2025-09-02,Camila Araujo,Teclado Mecânico,Periféricos,Sudeste,7,311.51,2180.57,422.18
+ORD-000019,2025-06-06,Gabriela Cardoso,Notebook Dell,Computadores,Norte,9,2750.88,24757.92,6281.57
+ORD-000020,2025-07-22,Ana Costa,SSD 500GB,Armazenamento,Sudeste,3,343.52,1030.56,299.65
+ORD-000021,2025-06-12,Felipe Nascimento,Smartphone iPhone,Celulares,Sul,2,4018.73,8037.46,1283.49
+ORD-000022,2025-12-22,Felipe Nascimento,Microfone USB,Áudio,Nordeste,3,284.87,854.61,113.07
+ORD-000023,2025-10-27,João Silva,Microfone USB,Áudio,Centro-Oeste,8,242.34,1938.72,554.12
+ORD-000024,2025-07-05,Fernanda Souza,Mouse Logitech,Periféricos,Nordeste,10,176.82,1768.2,207.11
+ORD-000025,2025-10-04,Pedro Oliveira,Carregador Portátil,Acessórios,Nordeste,3,85.11,255.33,73.88
+ORD-000026,2025-04-23,Ricardo Pereira,Cabo HDMI,Cabos,Sul,7,59.29,415.03,118.61
+ORD-000027,2026-01-17,Roberto Lima,SSD 500GB,Armazenamento,Sudeste,6,341.33,2047.98,416.79
+ORD-000028,2025-03-31,Fernanda Souza,Fone Bluetooth,Áudio,Norte,6,161.68,970.08,204.48
+ORD-000029,2025-11-26,Fernanda Souza,Notebook Dell,Computadores,Norte,1,2228.94,2228.94,626.52
+ORD-000030,2025-07-17,Pedro Oliveira,Cabo HDMI,Cabos,Nordeste,5,53.38,266.9,38.13
+ORD-000031,2025-04-06,Thiago Moreira,Caixa de Som,Áudio,Sudeste,4,278.46,1113.84,291.27
+ORD-000032,2025-05-06,Ana Costa,Monitor Samsung,Monitores,Sudeste,6,775.55,4653.3,899.97
+ORD-000033,2025-02-25,Ana Costa,Mouse Logitech,Periféricos,Sudeste,6,168.04,1008.24,122.86
+ORD-000034,2025-05-07,Roberto Lima,Carregador Portátil,Acessórios,Sudeste,3,77.5,232.5,36.2
+ORD-000035,2025-06-05,Pedro Oliveira,Mesa Escritório,Móveis,Sul,2,328.09,656.18,196.76
+ORD-000036,2025-02-05,Pedro Oliveira,Fone Bluetooth,Áudio,Nordeste,7,198.85,1391.95,198.7
+ORD-000037,2025-08-22,Maria Santos,Smartphone iPhone,Celulares,Sudeste,1,4179.43,4179.43,639.62
+ORD-000038,2025-09-18,Juliana Rocha,Cadeira Gamer,Móveis,Sul,8,517.15,4137.2,659.23
+ORD-000039,2025-02-27,Thiago Moreira,Carregador Portátil,Acessórios,Norte,6,65.83,394.98,85.65
+ORD-000040,2025-10-13,Felipe Nascimento,Smartphone iPhone,Celulares,Norte,9,2912.16,26209.44,3595.02
+ORD-000041,2025-11-29,Pedro Oliveira,Fone Bluetooth,Áudio,Sudeste,2,235.33,470.66,100.69
+ORD-000042,2025-11-21,Camila Araujo,Mouse Logitech,Periféricos,Sul,2,145.15,290.3,62.92
+ORD-000043,2025-10-23,Marcos Barbosa,Webcam HD,Periféricos,Nordeste,6,161.19,967.14,173.27
+ORD-000044,2026-01-07,Juliana Rocha,Mesa Escritório,Móveis,Centro-Oeste,2,321.49,642.98,144.18
+ORD-000045,2025-11-13,Ana Costa,Teclado Mecânico,Periféricos,Sul,4,300.71,1202.84,152.15
+ORD-000046,2025-07-26,Pedro Oliveira,Fone Bluetooth,Áudio,Centro-Oeste,5,172.62,863.1,230.23
+ORD-000047,2026-01-24,Juliana Rocha,Microfone USB,Áudio,Sul,1,320.14,320.14,67.52
+ORD-000048,2026-01-03,Ana Costa,Impressora HP,Impressoras,Centro-Oeste,2,520.15,1040.3,258.5
+ORD-000049,2025-04-18,Ricardo Pereira,SSD 500GB,Armazenamento,Sul,4,380.47,1521.88,214.16
+ORD-000050,2025-12-19,Ricardo Pereira,Cabo HDMI,Cabos,Sudeste,5,58.11,290.55,78.22
+ORD-000051,2025-03-17,Carla Martins,Webcam HD,Periféricos,Norte,1,168.02,168.02,21.2
+ORD-000052,2025-06-12,Lucia Almeida,Mesa Escritório,Móveis,Sul,7,409.75,2868.25,351.0
+ORD-000053,2026-01-17,Carlos Ferreira,Carregador Portátil,Acessórios,Norte,6,82.64,495.84,64.27
+ORD-000054,2025-04-04,Maria Santos,SSD 500GB,Armazenamento,Centro-Oeste,1,405.85,405.85,57.64
+ORD-000055,2025-06-05,Ana Costa,Placa de Vídeo,Componentes,Sul,7,1427.44,9992.08,2496.98
+ORD-000056,2025-05-30,Lucia Almeida,Smartphone iPhone,Celulares,Sudeste,1,3051.1,3051.1,869.25
+ORD-000057,2025-08-27,Fernanda Souza,Webcam HD,Periféricos,Nordeste,2,171.54,343.08,36.97
+ORD-000058,2025-09-26,Fernanda Souza,Tablet iPad,Tablets,Sudeste,6,1844.15,11064.9,2866.57
+ORD-000059,2025-05-25,Fernanda Souza,Notebook Dell,Computadores,Nordeste,7,2328.26,16297.82,4447.2
+ORD-000060,2025-06-20,Patricia Dias,Cabo HDMI,Cabos,Sudeste,9,46.62,419.58,44.27
+ORD-000061,2025-06-11,Lucia Almeida,Caixa de Som,Áudio,Centro-Oeste,1,210.84,210.84,39.41
+ORD-000062,2025-07-08,Carla Martins,Microfone USB,Áudio,Sul,2,286.22,572.44,123.26
+ORD-000063,2025-06-08,Maria Santos,Cadeira Gamer,Móveis,Norte,9,702.14,6319.26,1312.45
+ORD-000064,2026-01-07,Roberto Lima,Placa de Vídeo,Componentes,Sudeste,2,1415.46,2830.92,804.42
+ORD-000065,2025-12-14,Marcos Barbosa,Monitor Samsung,Monitores,Centro-Oeste,9,738.97,6650.73,1208.3
+ORD-000066,2025-08-23,Juliana Rocha,Carregador Portátil,Acessórios,Nordeste,4,77.45,309.8,89.24
+ORD-000067,2026-01-10,Lucia Almeida,Microfone USB,Áudio,Sul,5,288.73,1443.65,385.09
+ORD-000068,2025-07-03,Juliana Rocha,Tablet iPad,Tablets,Sudeste,10,2085.33,20853.3,3429.32
+ORD-000069,2025-09-12,Eduardo Ribeiro,Tablet iPad,Tablets,Sul,8,2234.99,17879.92,5220.34
+ORD-000070,2025-04-25,Pedro Oliveira,SSD 500GB,Armazenamento,Sul,10,326.93,3269.3,862.06
+ORD-000071,2025-05-29,Juliana Rocha,Fone Bluetooth,Áudio,Nordeste,3,161.95,485.85,72.38
+ORD-000072,2025-09-29,Camila Araujo,Teclado Mecânico,Periféricos,Sudeste,7,346.34,2424.38,521.57
+ORD-000073,2026-01-20,Antonio Gomes,Luminária LED,Iluminação,Sudeste,4,103.08,412.32,97.94
+ORD-000074,2025-03-24,Carla Martins,Fone Bluetooth,Áudio,Nordeste,9,197.16,1774.44,375.26
+ORD-000075,2025-04-01,Eduardo Ribeiro,Impressora HP,Impressoras,Sudeste,9,537.82,4840.38,1060.48
+ORD-000076,2025-09-12,Camila Araujo,Cabo HDMI,Cabos,Sudeste,9,48.92,440.28,58.04
+ORD-000077,2025-09-29,Eduardo Ribeiro,Webcam HD,Periféricos,Nordeste,5,199.14,995.7,203.38
+ORD-000078,2025-12-15,Fernanda Souza,Webcam HD,Periféricos,Sudeste,2,195.38,390.76,57.4
+ORD-000079,2025-07-19,Marcos Barbosa,Carregador Portátil,Acessórios,Norte,3,68.83,206.49,36.47
+ORD-000080,2025-04-17,Roberto Lima,Teclado Mecânico,Periféricos,Sudeste,7,279.71,1957.97,378.25
+ORD-000081,2025-03-01,Roberto Lima,Cadeira Gamer,Móveis,Sudeste,10,707.05,7070.5,734.67
+ORD-000082,2025-11-19,Antonio Gomes,Luminária LED,Iluminação,Norte,6,110.33,661.98,117.83
+ORD-000083,2025-08-31,Gabriela Cardoso,Carregador Portátil,Acessórios,Sul,4,79.62,318.48,49.23
+ORD-000084,2025-10-04,João Silva,Processador Intel,Componentes,Centro-Oeste,7,871.74,6102.18,1636.0
+ORD-000085,2025-04-04,Camila Araujo,Carregador Portátil,Acessórios,Norte,7,82.94,580.58,135.04
+ORD-000086,2025-03-12,Carla Martins,Impressora HP,Impressoras,Sudeste,3,369.05,1107.15,194.66
+ORD-000087,2025-05-17,Eduardo Ribeiro,Memória RAM 16GB,Componentes,Centro-Oeste,7,364.52,2551.64,740.59
+ORD-000088,2025-09-01,Ricardo Pereira,Teclado Mecânico,Periféricos,Sudeste,1,329.88,329.88,36.42
+ORD-000089,2025-07-27,Fernanda Souza,Teclado Mecânico,Periféricos,Norte,1,353.95,353.95,49.51
+ORD-000090,2025-02-08,Camila Araujo,Impressora HP,Impressoras,Nordeste,3,445.24,1335.72,164.13
+ORD-000091,2025-05-20,Eduardo Ribeiro,Webcam HD,Periféricos,Centro-Oeste,3,187.62,562.86,164.78
+ORD-000092,2025-03-28,Lucia Almeida,SSD 500GB,Armazenamento,Norte,10,283.59,2835.9,460.53
+ORD-000093,2026-01-10,Antonio Gomes,Processador Intel,Componentes,Nordeste,2,829.47,1658.94,441.47
+ORD-000094,2025-06-02,Ana Costa,SSD 500GB,Armazenamento,Sul,2,391.47,782.94,166.91
+ORD-000095,2025-02-19,Patricia Dias,Carregador Portátil,Acessórios,Sudeste,6,66.21,397.26,91.17
+ORD-000096,2025-02-04,Carla Martins,Luminária LED,Iluminação,Norte,7,142.12,994.84,225.95
+ORD-000097,2025-09-21,Carlos Ferreira,Cadeira Gamer,Móveis,Nordeste,9,711.71,6405.39,986.54
+ORD-000098,2025-10-31,Beatriz Castro,Mesa Escritório,Móveis,Sudeste,10,362.94,3629.4,981.18
+ORD-000099,2025-03-14,Ricardo Pereira,Mesa Escritório,Móveis,Nordeste,8,411.18,3289.44,768.54
+ORD-000100,2025-07-20,João Silva,Luminária LED,Iluminação,Centro-Oeste,3,119.4,358.2,61.24
+ORD-000101,2025-06-10,Marcos Barbosa,Webcam HD,Periféricos,Sul,5,184.02,920.1,187.08
+ORD-000102,2025-05-06,Pedro Oliveira,Fone Bluetooth,Áudio,Sudeste,8,204.41,1635.28,242.13
+ORD-000103,2025-09-29,Beatriz Castro,Mesa Escritório,Móveis,Norte,2,367.08,734.16,132.8
+ORD-000104,2025-06-02,Juliana Rocha,Caixa de Som,Áudio,Centro-Oeste,8,255.35,2042.8,344.73
+ORD-000105,2025-11-06,Marcos Barbosa,Placa de Vídeo,Componentes,Sudeste,5,1107.18,5535.9,808.84
+ORD-000106,2025-05-07,Marcos Barbosa,Monitor Samsung,Monitores,Sul,3,701.29,2103.87,521.17
+ORD-000107,2025-06-19,Thiago Moreira,Cabo HDMI,Cabos,Sul,5,59.61,298.05,79.44
+ORD-000108,2025-06-29,Fernanda Souza,Placa de Vídeo,Componentes,Nordeste,5,966.79,4833.95,999.79
+ORD-000109,2025-06-18,Maria Santos,Mouse Logitech,Periféricos,Sul,5,161.85,809.25,101.36
+ORD-000110,2025-10-07,Ana Costa,Notebook Dell,Computadores,Sul,5,2469.4,12347.0,2322.39
+ORD-000111,2025-05-03,Maria Santos,Webcam HD,Periféricos,Sudeste,2,203.19,406.38,73.21
+ORD-000112,2025-03-07,Thiago Moreira,Mouse Logitech,Periféricos,Nordeste,3,168.67,506.01,146.65
+ORD-000113,2025-03-13,Fernanda Souza,Monitor Samsung,Monitores,Sul,7,834.02,5838.14,1507.11
+ORD-000114,2025-05-24,Felipe Nascimento,Processador Intel,Componentes,Sudeste,8,735.15,5881.2,1280.37
+ORD-000115,2025-09-05,Juliana Rocha,Caixa de Som,Áudio,Sul,1,260.96,260.96,64.72
+ORD-000116,2025-05-15,Roberto Lima,Webcam HD,Periféricos,Norte,3,161.27,483.81,101.79
+ORD-000117,2025-04-19,João Silva,Cadeira Gamer,Móveis,Sudeste,10,592.78,5927.8,631.48
+ORD-000118,2025-06-25,Juliana Rocha,Mesa Escritório,Móveis,Norte,4,467.83,1871.32,481.99
+ORD-000119,2025-12-15,Thiago Moreira,Tablet iPad,Tablets,Sudeste,2,2035.65,4071.3,934.47
+ORD-000120,2025-06-14,Carlos Ferreira,Teclado Mecânico,Periféricos,Norte,3,335.12,1005.36,220.18
+ORD-000121,2025-11-16,Juliana Rocha,Mesa Escritório,Móveis,Norte,8,430.19,3441.52,825.78
+ORD-000122,2025-06-17,Felipe Nascimento,Carregador Portátil,Acessórios,Sudeste,8,66.57,532.56,57.5
+ORD-000123,2025-09-07,Marcos Barbosa,Microfone USB,Áudio,Centro-Oeste,1,250.96,250.96,73.38
+ORD-000124,2025-11-19,Thiago Moreira,Notebook Dell,Computadores,Centro-Oeste,10,2040.23,20402.3,5126.15
+ORD-000125,2025-09-26,Felipe Nascimento,Mesa Escritório,Móveis,Centro-Oeste,3,479.51,1438.53,269.26
+ORD-000126,2025-10-07,Pedro Oliveira,Luminária LED,Iluminação,Centro-Oeste,7,112.0,784.0,183.48
+ORD-000127,2025-04-21,Marcos Barbosa,Cadeira Gamer,Móveis,Sudeste,5,639.02,3195.1,575.41
+ORD-000128,2025-11-06,Maria Santos,Mesa Escritório,Móveis,Norte,6,360.38,2162.28,266.36
+ORD-000129,2025-08-23,Felipe Nascimento,Notebook Dell,Computadores,Sul,8,2413.25,19306.0,2654.89
+ORD-000130,2025-08-02,Camila Araujo,Luminária LED,Iluminação,Sudeste,1,105.77,105.77,22.2
+ORD-000131,2025-06-25,Eduardo Ribeiro,Luminária LED,Iluminação,Norte,1,142.71,142.71,31.65
+ORD-000132,2025-05-31,Lucia Almeida,SSD 500GB,Armazenamento,Sul,1,357.32,357.32,42.39
+ORD-000133,2025-03-28,Eduardo Ribeiro,Monitor Samsung,Monitores,Nordeste,8,938.45,7507.6,1189.0
+ORD-000134,2026-01-25,Ricardo Pereira,Cadeira Gamer,Móveis,Sudeste,8,538.5,4308.0,905.77
+ORD-000135,2025-08-13,Roberto Lima,Microfone USB,Áudio,Sul,3,343.68,1031.04,160.07
+ORD-000136,2025-08-29,Marcos Barbosa,Cabo HDMI,Cabos,Centro-Oeste,1,45.66,45.66,7.29
+ORD-000137,2025-11-25,Thiago Moreira,Luminária LED,Iluminação,Nordeste,8,121.85,974.8,164.77
+ORD-000138,2025-11-07,Gabriela Cardoso,Processador Intel,Componentes,Sudeste,6,918.27,5509.62,1631.7
+ORD-000139,2025-05-31,Thiago Moreira,Processador Intel,Componentes,Nordeste,7,653.97,4577.79,1139.6
+ORD-000140,2026-01-25,Antonio Gomes,Processador Intel,Componentes,Nordeste,8,948.74,7589.92,950.63
+ORD-000141,2025-11-27,Marcos Barbosa,Monitor Samsung,Monitores,Sudeste,2,808.3,1616.6,309.39
+ORD-000142,2025-04-12,Carla Martins,Impressora HP,Impressoras,Norte,8,500.67,4005.36,612.84
+ORD-000143,2025-12-14,Antonio Gomes,Teclado Mecânico,Periféricos,Centro-Oeste,9,285.6,2570.4,419.83
+ORD-000144,2025-10-05,Gabriela Cardoso,Mouse Logitech,Periféricos,Sul,2,134.09,268.18,63.53
+ORD-000145,2025-06-25,Fernanda Souza,Teclado Mecânico,Periféricos,Sudeste,2,331.24,662.48,159.51
+ORD-000146,2025-03-21,Eduardo Ribeiro,Smartphone iPhone,Celulares,Centro-Oeste,1,2864.39,2864.39,742.53
+ORD-000147,2025-06-28,Patricia Dias,Placa de Vídeo,Componentes,Sudeste,3,1077.21,3231.63,589.48
+ORD-000148,2026-01-13,Lucia Almeida,Smartphone iPhone,Celulares,Nordeste,2,3653.29,7306.58,1289.68
+ORD-000149,2026-01-13,Fernanda Souza,Luminária LED,Iluminação,Sul,3,107.15,321.45,73.16
+ORD-000150,2025-09-21,Ricardo Pereira,Notebook Dell,Computadores,Sudeste,5,2677.61,13388.05,1761.8
+ORD-000151,2025-09-12,Patricia Dias,Caixa de Som,Áudio,Centro-Oeste,7,269.03,1883.21,360.38
+ORD-000152,2025-07-02,Roberto Lima,Processador Intel,Componentes,Sudeste,2,715.91,1431.82,306.96
+ORD-000153,2025-11-19,Juliana Rocha,SSD 500GB,Armazenamento,Norte,7,318.43,2229.01,475.19
+ORD-000154,2026-01-15,Maria Santos,Microfone USB,Áudio,Sudeste,5,333.09,1665.45,243.2
+ORD-000155,2025-07-28,Fernanda Souza,Tablet iPad,Tablets,Sul,5,2142.21,10711.05,2615.48
+ORD-000156,2026-01-01,Carlos Ferreira,Monitor Samsung,Monitores,Norte,5,892.36,4461.8,475.95
+ORD-000157,2025-08-03,Carlos Ferreira,Teclado Mecânico,Periféricos,Centro-Oeste,6,329.7,1978.2,267.31
+ORD-000158,2025-04-06,Gabriela Cardoso,Placa de Vídeo,Componentes,Sul,9,1398.47,12586.23,3349.13
+ORD-000159,2025-06-09,Beatriz Castro,SSD 500GB,Armazenamento,Centro-Oeste,2,345.57,691.14,79.52
+ORD-000160,2025-05-24,Antonio Gomes,Carregador Portátil,Acessórios,Centro-Oeste,2,89.3,178.6,18.36
+ORD-000161,2025-10-30,Ana Costa,Mesa Escritório,Móveis,Centro-Oeste,5,413.53,2067.65,546.86
+ORD-000162,2025-08-07,Ana Costa,Fone Bluetooth,Áudio,Sudeste,1,209.56,209.56,60.49
+ORD-000163,2025-07-15,Camila Araujo,Fone Bluetooth,Áudio,Norte,8,232.75,1862.0,298.74
+ORD-000164,2025-08-26,Ana Costa,Impressora HP,Impressoras,Norte,1,414.79,414.79,82.35
+ORD-000165,2025-03-19,Fernanda Souza,Carregador Portátil,Acessórios,Nordeste,7,78.52,549.64,128.67
+ORD-000166,2026-01-20,Gabriela Cardoso,Cadeira Gamer,Móveis,Sul,3,692.5,2077.5,479.87
+ORD-000167,2025-10-06,Camila Araujo,Cadeira Gamer,Móveis,Centro-Oeste,1,645.67,645.67,92.62
+ORD-000168,2025-09-13,Fernanda Souza,Placa de Vídeo,Componentes,Norte,6,1221.34,7328.04,2165.94
+ORD-000169,2025-07-31,Maria Santos,Processador Intel,Componentes,Centro-Oeste,4,949.83,3799.32,1101.05
+ORD-000170,2025-09-18,Pedro Oliveira,Tablet iPad,Tablets,Sul,1,1640.46,1640.46,273.47
+ORD-000171,2025-04-03,Thiago Moreira,Tablet iPad,Tablets,Norte,9,1765.73,15891.57,2275.52
+ORD-000172,2025-05-28,Marcos Barbosa,Impressora HP,Impressoras,Sul,1,409.91,409.91,121.66
+ORD-000173,2025-04-05,Gabriela Cardoso,Webcam HD,Periféricos,Nordeste,2,191.6,383.2,40.3
+ORD-000174,2025-02-05,Patricia Dias,Fone Bluetooth,Áudio,Sul,6,161.26,967.56,148.11
+ORD-000175,2025-04-03,Carla Martins,Cabo HDMI,Cabos,Norte,2,49.52,99.04,25.31
+ORD-000176,2025-10-18,Thiago Moreira,Monitor Samsung,Monitores,Sudeste,9,710.9,6398.1,1426.91
+ORD-000177,2026-01-01,Felipe Nascimento,SSD 500GB,Armazenamento,Sudeste,1,288.52,288.52,56.49
+ORD-000178,2025-08-22,Carla Martins,Monitor Samsung,Monitores,Sudeste,8,663.52,5308.16,616.59
+ORD-000179,2025-12-06,Carlos Ferreira,Teclado Mecânico,Periféricos,Nordeste,5,314.92,1574.6,341.8
+ORD-000180,2026-01-28,Marcos Barbosa,Processador Intel,Componentes,Sul,9,734.37,6609.33,1329.2
+ORD-000181,2025-09-06,Ana Costa,Monitor Samsung,Monitores,Sul,4,777.62,3110.48,863.53
+ORD-000182,2025-08-28,Marcos Barbosa,Mesa Escritório,Móveis,Sudeste,7,436.74,3057.18,496.82
+ORD-000183,2025-07-08,Ricardo Pereira,Placa de Vídeo,Componentes,Nordeste,8,992.22,7937.76,2114.26
+ORD-000184,2025-03-17,Carla Martins,Monitor Samsung,Monitores,Centro-Oeste,3,818.04,2454.12,533.26
+ORD-000185,2025-11-12,Gabriela Cardoso,Memória RAM 16GB,Componentes,Norte,7,376.58,2636.06,614.38
+ORD-000186,2025-09-02,Maria Santos,SSD 500GB,Armazenamento,Sul,5,329.23,1646.15,354.88
+ORD-000187,2025-05-17,Carlos Ferreira,Luminária LED,Iluminação,Nordeste,2,112.81,225.62,47.66
+ORD-000188,2025-03-28,Ricardo Pereira,Caixa de Som,Áudio,Nordeste,7,284.52,1991.64,587.35
+ORD-000189,2025-12-13,Camila Araujo,Carregador Portátil,Acessórios,Norte,10,93.73,937.3,249.22
+ORD-000190,2025-06-14,João Silva,Smartphone iPhone,Celulares,Centro-Oeste,5,4090.15,20450.75,3480.81
+ORD-000191,2025-05-01,Carlos Ferreira,Caixa de Som,Áudio,Sudeste,2,214.19,428.38,97.09
+ORD-000192,2025-02-13,Pedro Oliveira,Cabo HDMI,Cabos,Nordeste,7,48.4,338.8,56.98
+ORD-000193,2025-08-06,Juliana Rocha,Memória RAM 16GB,Componentes,Sul,10,333.59,3335.9,368.69
+ORD-000194,2025-04-19,Camila Araujo,Mouse Logitech,Periféricos,Norte,5,146.59,732.95,135.45
+ORD-000195,2025-12-05,Eduardo Ribeiro,Cadeira Gamer,Móveis,Centro-Oeste,4,661.19,2644.76,324.68
+ORD-000196,2025-09-06,Ana Costa,SSD 500GB,Armazenamento,Sul,8,353.77,2830.16,457.59
+ORD-000197,2025-05-21,Antonio Gomes,Microfone USB,Áudio,Norte,1,264.53,264.53,76.47
+ORD-000198,2025-04-09,Ricardo Pereira,SSD 500GB,Armazenamento,Centro-Oeste,2,281.08,562.16,140.2
+ORD-000199,2025-04-28,Carlos Ferreira,Processador Intel,Componentes,Sul,4,800.08,3200.32,853.43
+ORD-000200,2025-07-29,Pedro Oliveira,Processador Intel,Componentes,Norte,7,646.0,4522.0,1285.3
+ORD-000201,2025-07-08,Thiago Moreira,Cadeira Gamer,Móveis,Sul,7,650.28,4551.96,835.46
+ORD-000202,2025-03-28,Antonio Gomes,Notebook Dell,Computadores,Centro-Oeste,3,2801.32,8403.96,1879.34
+ORD-000203,2026-01-17,Patricia Dias,Teclado Mecânico,Periféricos,Sudeste,2,269.2,538.4,117.25
+ORD-000204,2025-10-24,Pedro Oliveira,Processador Intel,Componentes,Centro-Oeste,6,710.9,4265.4,1091.19
+ORD-000205,2025-03-09,Felipe Nascimento,Monitor Samsung,Monitores,Sul,9,702.05,6318.45,1612.76
+ORD-000206,2025-07-27,Carlos Ferreira,Fone Bluetooth,Áudio,Norte,3,180.48,541.44,72.93
+ORD-000207,2025-04-17,Pedro Oliveira,Smartphone iPhone,Celulares,Sudeste,8,3856.22,30849.76,7773.38
+ORD-000208,2025-09-15,Thiago Moreira,Microfone USB,Áudio,Centro-Oeste,6,258.11,1548.66,176.02
+ORD-000209,2025-09-12,Juliana Rocha,Webcam HD,Periféricos,Sul,1,169.34,169.34,19.45
+ORD-000210,2025-09-22,Eduardo Ribeiro,Mouse Logitech,Periféricos,Norte,6,169.9,1019.4,117.58
+ORD-000211,2025-03-16,Camila Araujo,Microfone USB,Áudio,Sul,7,295.53,2068.71,436.21
+ORD-000212,2025-02-19,Eduardo Ribeiro,Caixa de Som,Áudio,Nordeste,6,260.5,1563.0,313.03
+ORD-000213,2025-03-01,Eduardo Ribeiro,Monitor Samsung,Monitores,Centro-Oeste,2,801.46,1602.92,215.61
+ORD-000214,2025-06-04,Eduardo Ribeiro,Mesa Escritório,Móveis,Sul,9,417.57,3758.13,649.33
+ORD-000215,2025-06-22,Antonio Gomes,Cadeira Gamer,Móveis,Centro-Oeste,10,492.57,4925.7,1114.08
+ORD-000216,2025-07-19,Pedro Oliveira,Memória RAM 16GB,Componentes,Norte,9,428.54,3856.86,604.87
+ORD-000217,2025-12-31,Camila Araujo,Impressora HP,Impressoras,Centro-Oeste,2,464.89,929.78,119.28
+ORD-000218,2025-07-27,Juliana Rocha,Processador Intel,Componentes,Nordeste,10,866.83,8668.3,1013.7
+ORD-000219,2025-11-11,Antonio Gomes,Memória RAM 16GB,Componentes,Nordeste,9,334.95,3014.55,705.68
+ORD-000220,2025-10-16,Patricia Dias,Notebook Dell,Computadores,Centro-Oeste,5,2180.26,10901.3,1557.13
+ORD-000221,2025-10-04,Roberto Lima,Fone Bluetooth,Áudio,Nordeste,3,166.17,498.51,134.04
+ORD-000222,2025-03-21,Felipe Nascimento,Carregador Portátil,Acessórios,Sul,1,85.18,85.18,23.45
+ORD-000223,2025-12-11,Carlos Ferreira,Microfone USB,Áudio,Sudeste,3,259.47,778.41,207.27
+ORD-000224,2025-12-14,Lucia Almeida,Mesa Escritório,Móveis,Norte,7,378.29,2648.03,645.9
+ORD-000225,2025-09-13,Camila Araujo,SSD 500GB,Armazenamento,Sudeste,4,354.76,1419.04,229.73
+ORD-000226,2025-09-26,Roberto Lima,Placa de Vídeo,Componentes,Sul,8,1181.61,9452.88,1478.0
+ORD-000227,2025-08-12,Felipe Nascimento,Cabo HDMI,Cabos,Sudeste,3,56.34,169.02,43.99
+ORD-000228,2025-04-09,Ricardo Pereira,Mouse Logitech,Periféricos,Sudeste,6,153.27,919.62,110.83
+ORD-000229,2025-10-20,Ana Costa,SSD 500GB,Armazenamento,Norte,3,318.19,954.57,268.29
+ORD-000230,2025-04-14,Carla Martins,Teclado Mecânico,Periféricos,Nordeste,8,346.16,2769.28,792.28
+ORD-000231,2025-08-29,Maria Santos,Processador Intel,Componentes,Sul,6,715.45,4292.7,1283.11
+ORD-000232,2025-08-08,Fernanda Souza,Notebook Dell,Computadores,Centro-Oeste,2,2839.18,5678.36,1305.98
+ORD-000233,2025-04-13,Carlos Ferreira,Mouse Logitech,Periféricos,Centro-Oeste,8,161.76,1294.08,165.33
+ORD-000234,2026-01-25,Beatriz Castro,Mesa Escritório,Móveis,Sul,1,464.94,464.94,48.26
+ORD-000235,2025-05-19,Carlos Ferreira,Carregador Portátil,Acessórios,Sul,9,77.54,697.86,178.12
+ORD-000236,2025-05-30,Juliana Rocha,Monitor Samsung,Monitores,Norte,4,774.34,3097.36,801.53
+ORD-000237,2025-09-20,Pedro Oliveira,Monitor Samsung,Monitores,Sudeste,10,811.54,8115.4,1837.25
+ORD-000238,2025-11-19,Fernanda Souza,Impressora HP,Impressoras,Centro-Oeste,7,360.28,2521.96,430.15
+ORD-000239,2025-11-17,Carla Martins,Smartphone iPhone,Celulares,Norte,9,4164.52,37480.68,4255.4
+ORD-000240,2025-10-25,Gabriela Cardoso,Cabo HDMI,Cabos,Sul,9,40.41,363.69,99.89
+ORD-000241,2025-02-20,Antonio Gomes,Placa de Vídeo,Componentes,Centro-Oeste,1,1131.41,1131.41,128.43
+ORD-000242,2025-06-01,Ana Costa,Caixa de Som,Áudio,Centro-Oeste,3,204.43,613.29,128.3
+ORD-000243,2025-12-24,Lucia Almeida,Mesa Escritório,Móveis,Sudeste,3,449.84,1349.52,151.98
+ORD-000244,2025-09-20,Maria Santos,SSD 500GB,Armazenamento,Nordeste,1,390.76,390.76,108.3
+ORD-000245,2025-07-09,Juliana Rocha,Cabo HDMI,Cabos,Sudeste,9,49.47,445.23,47.78
+ORD-000246,2025-12-26,Roberto Lima,SSD 500GB,Armazenamento,Centro-Oeste,1,401.21,401.21,66.76
+ORD-000247,2025-04-02,Patricia Dias,Cadeira Gamer,Móveis,Sudeste,8,694.71,5557.68,985.54
+ORD-000248,2025-05-04,Beatriz Castro,Luminária LED,Iluminação,Centro-Oeste,9,108.8,979.2,114.1
+ORD-000249,2025-09-03,Pedro Oliveira,Cadeira Gamer,Móveis,Sul,3,610.91,1832.73,301.01
+ORD-000250,2025-03-10,Marcos Barbosa,SSD 500GB,Armazenamento,Centro-Oeste,8,364.37,2914.96,539.92
+ORD-000251,2026-01-17,Eduardo Ribeiro,Placa de Vídeo,Componentes,Sudeste,1,1308.87,1308.87,369.52
+ORD-000252,2025-12-09,Carla Martins,Webcam HD,Periféricos,Norte,2,192.33,384.66,69.72
+ORD-000253,2025-10-18,Lucia Almeida,Notebook Dell,Computadores,Nordeste,10,2678.09,26780.9,5025.02
+ORD-000254,2025-04-03,Pedro Oliveira,Fone Bluetooth,Áudio,Centro-Oeste,6,190.63,1143.78,244.14
+ORD-000255,2025-12-04,Carlos Ferreira,Mesa Escritório,Móveis,Centro-Oeste,6,391.03,2346.18,270.7
+ORD-000256,2025-04-09,Felipe Nascimento,Placa de Vídeo,Componentes,Sudeste,6,1271.79,7630.74,1144.02
+ORD-000257,2025-03-28,João Silva,Smartphone iPhone,Celulares,Sudeste,9,3341.78,30076.02,6386.18
+ORD-000258,2025-06-12,Ricardo Pereira,Mesa Escritório,Móveis,Nordeste,10,365.69,3656.9,1035.98
+ORD-000259,2025-10-07,Roberto Lima,Monitor Samsung,Monitores,Nordeste,2,784.65,1569.3,438.99
+ORD-000260,2025-09-13,Pedro Oliveira,Memória RAM 16GB,Componentes,Centro-Oeste,2,408.0,816.0,128.99
+ORD-000261,2025-07-01,Lucia Almeida,Smartphone iPhone,Celulares,Centro-Oeste,9,3113.94,28025.46,8324.3
+ORD-000262,2025-04-10,Fernanda Souza,Luminária LED,Iluminação,Norte,6,122.59,735.54,127.82
+ORD-000263,2025-11-07,Carlos Ferreira,Microfone USB,Áudio,Norte,2,277.11,554.22,166.22
+ORD-000264,2025-10-01,Felipe Nascimento,Cadeira Gamer,Móveis,Sudeste,10,497.7,4977.0,1465.61
+ORD-000265,2025-12-23,Pedro Oliveira,Mesa Escritório,Móveis,Sudeste,9,375.12,3376.08,930.42
+ORD-000266,2025-11-07,Thiago Moreira,Smartphone iPhone,Celulares,Nordeste,7,3504.01,24528.07,6711.92
+ORD-000267,2025-04-02,Felipe Nascimento,Impressora HP,Impressoras,Centro-Oeste,3,389.15,1167.45,335.0
+ORD-000268,2025-05-24,Patricia Dias,Cabo HDMI,Cabos,Centro-Oeste,2,45.01,90.02,20.44
+ORD-000269,2025-11-07,Ricardo Pereira,Impressora HP,Impressoras,Centro-Oeste,10,456.03,4560.3,914.41
+ORD-000270,2025-04-25,Thiago Moreira,Caixa de Som,Áudio,Nordeste,3,265.87,797.61,194.72
+ORD-000271,2025-12-04,Marcos Barbosa,Caixa de Som,Áudio,Norte,1,208.12,208.12,60.29
+ORD-000272,2025-11-20,Ricardo Pereira,Tablet iPad,Tablets,Sul,7,2094.49,14661.43,1554.95
+ORD-000273,2025-12-16,Gabriela Cardoso,SSD 500GB,Armazenamento,Centro-Oeste,8,314.28,2514.24,657.4
+ORD-000274,2025-08-24,Juliana Rocha,Mesa Escritório,Móveis,Norte,1,345.29,345.29,63.23
+ORD-000275,2025-09-23,Roberto Lima,Memória RAM 16GB,Componentes,Sul,3,370.01,1110.03,270.48
+ORD-000276,2025-07-24,Antonio Gomes,Impressora HP,Impressoras,Centro-Oeste,9,461.1,4149.9,679.85
+ORD-000277,2025-09-24,Ana Costa,Webcam HD,Periféricos,Sudeste,4,154.14,616.56,67.9
+ORD-000278,2025-08-13,Camila Araujo,Cadeira Gamer,Móveis,Nordeste,3,675.23,2025.69,580.87
+ORD-000279,2025-07-08,Roberto Lima,Smartphone iPhone,Celulares,Sudeste,9,3453.54,31081.86,8572.85
+ORD-000280,2025-10-10,João Silva,Teclado Mecânico,Periféricos,Sudeste,9,294.87,2653.83,393.15
+ORD-000281,2025-11-23,Patricia Dias,Mouse Logitech,Periféricos,Norte,5,149.69,748.45,206.92
+ORD-000282,2025-12-29,Beatriz Castro,SSD 500GB,Armazenamento,Sul,1,398.6,398.6,74.21
+ORD-000283,2025-06-13,Patricia Dias,Processador Intel,Componentes,Centro-Oeste,1,768.19,768.19,164.44
+ORD-000284,2025-05-08,Patricia Dias,Carregador Portátil,Acessórios,Centro-Oeste,2,76.36,152.72,29.03
+ORD-000285,2025-11-06,Ricardo Pereira,Microfone USB,Áudio,Sul,2,255.44,510.88,60.97
+ORD-000286,2025-08-08,Marcos Barbosa,Carregador Portátil,Acessórios,Centro-Oeste,3,70.37,211.11,42.61
+ORD-000287,2025-10-12,Maria Santos,Mouse Logitech,Periféricos,Norte,3,162.82,488.46,127.39
+ORD-000288,2025-10-21,Eduardo Ribeiro,Impressora HP,Impressoras,Sul,9,385.16,3466.44,992.35
+ORD-000289,2025-07-11,Lucia Almeida,Processador Intel,Componentes,Sul,5,829.99,4149.95,836.06
+ORD-000290,2025-10-16,Gabriela Cardoso,Luminária LED,Iluminação,Sul,5,118.79,593.95,61.37
+ORD-000291,2025-07-17,Ana Costa,Cadeira Gamer,Móveis,Sul,5,671.22,3356.1,822.46
+ORD-000292,2026-01-16,João Silva,Microfone USB,Áudio,Sudeste,5,356.05,1780.25,456.78
+ORD-000293,2025-11-21,Thiago Moreira,Fone Bluetooth,Áudio,Norte,10,198.44,1984.4,406.5
+ORD-000294,2025-12-12,Antonio Gomes,Impressora HP,Impressoras,Nordeste,1,463.06,463.06,111.18
+ORD-000295,2025-05-06,João Silva,Mesa Escritório,Móveis,Centro-Oeste,7,344.23,2409.61,573.73
+ORD-000296,2025-08-27,Felipe Nascimento,Microfone USB,Áudio,Sudeste,1,324.69,324.69,66.15
+ORD-000297,2025-11-12,Marcos Barbosa,Luminária LED,Iluminação,Sul,7,111.06,777.42,104.67
+ORD-000298,2025-10-28,Marcos Barbosa,Carregador Portátil,Acessórios,Centro-Oeste,5,83.52,417.6,57.82
+ORD-000299,2025-06-04,Ricardo Pereira,Carregador Portátil,Acessórios,Centro-Oeste,4,94.13,376.52,111.62
+ORD-000300,2025-06-25,Roberto Lima,Luminária LED,Iluminação,Centro-Oeste,8,112.74,901.92,258.62
+ORD-000301,2025-06-18,Juliana Rocha,Monitor Samsung,Monitores,Sul,9,761.5,6853.5,2028.86
+ORD-000302,2025-07-24,Carlos Ferreira,SSD 500GB,Armazenamento,Norte,5,413.74,2068.7,239.57
+ORD-000303,2025-09-12,Ricardo Pereira,Luminária LED,Iluminação,Nordeste,4,135.74,542.96,83.74
+ORD-000304,2025-11-12,Ricardo Pereira,Impressora HP,Impressoras,Norte,10,493.36,4933.6,729.46
+ORD-000305,2025-02-23,Felipe Nascimento,Fone Bluetooth,Áudio,Nordeste,1,168.02,168.02,27.9
+ORD-000306,2025-09-27,Ana Costa,Impressora HP,Impressoras,Norte,9,536.02,4824.18,634.81
+ORD-000307,2025-12-29,Beatriz Castro,Luminária LED,Iluminação,Nordeste,5,111.42,557.1,127.68
+ORD-000308,2025-03-15,Thiago Moreira,Fone Bluetooth,Áudio,Sul,1,233.06,233.06,31.47
+ORD-000309,2025-04-29,Maria Santos,Processador Intel,Componentes,Sudeste,3,939.71,2819.13,824.39
+ORD-000310,2025-06-26,Maria Santos,Notebook Dell,Computadores,Centro-Oeste,10,2602.78,26027.8,7435.91
+ORD-000311,2025-07-19,Juliana Rocha,Mesa Escritório,Móveis,Sul,9,399.03,3591.27,1033.25
+ORD-000312,2025-10-14,Eduardo Ribeiro,Webcam HD,Periféricos,Nordeste,2,167.81,335.62,82.64
+ORD-000313,2025-12-26,Ricardo Pereira,Smartphone iPhone,Celulares,Norte,6,3907.07,23442.42,5006.28
+ORD-000314,2025-05-07,Lucia Almeida,Microfone USB,Áudio,Sudeste,7,301.83,2112.81,247.93
+ORD-000315,2026-01-06,Ana Costa,Smartphone iPhone,Celulares,Nordeste,8,3253.04,26024.32,3893.48
+ORD-000316,2025-06-11,Antonio Gomes,Fone Bluetooth,Áudio,Sudeste,5,236.32,1181.6,189.52
+ORD-000317,2025-11-18,João Silva,Webcam HD,Periféricos,Centro-Oeste,4,148.47,593.88,73.43
+ORD-000318,2025-07-05,Lucia Almeida,Processador Intel,Componentes,Sul,5,860.89,4304.45,980.31
+ORD-000319,2025-06-29,Patricia Dias,Microfone USB,Áudio,Nordeste,4,354.88,1419.52,277.71
+ORD-000320,2025-09-18,Camila Araujo,Placa de Vídeo,Componentes,Sudeste,9,1398.14,12583.26,3164.31
+ORD-000321,2026-01-04,Roberto Lima,Fone Bluetooth,Áudio,Sul,2,202.04,404.08,83.09
+ORD-000322,2025-08-02,Pedro Oliveira,Caixa de Som,Áudio,Norte,1,282.88,282.88,79.37
+ORD-000323,2025-05-12,Thiago Moreira,Carregador Portátil,Acessórios,Nordeste,3,74.5,223.5,45.61
+ORD-000324,2025-03-29,Roberto Lima,Caixa de Som,Áudio,Sudeste,2,289.89,579.78,109.63
+ORD-000325,2025-02-26,Eduardo Ribeiro,Impressora HP,Impressoras,Sul,7,442.22,3095.54,345.3
+ORD-000326,2025-09-22,Juliana Rocha,Notebook Dell,Computadores,Sudeste,5,2816.45,14082.25,3508.75
+ORD-000327,2025-11-21,Pedro Oliveira,Mouse Logitech,Periféricos,Sudeste,6,162.02,972.12,202.43
+ORD-000328,2025-02-28,Pedro Oliveira,Luminária LED,Iluminação,Norte,5,115.63,578.15,146.73
+ORD-000329,2025-12-23,Carla Martins,Placa de Vídeo,Componentes,Sudeste,8,1377.42,11019.36,3100.34
+ORD-000330,2025-08-09,Pedro Oliveira,Carregador Portátil,Acessórios,Nordeste,6,67.8,406.8,121.46
+ORD-000331,2025-08-18,Felipe Nascimento,Impressora HP,Impressoras,Nordeste,1,496.11,496.11,146.7
+ORD-000332,2025-09-23,Gabriela Cardoso,Cadeira Gamer,Móveis,Sul,7,677.61,4743.27,709.13
+ORD-000333,2025-07-25,Carlos Ferreira,Webcam HD,Periféricos,Nordeste,2,146.32,292.64,67.9
+ORD-000334,2025-12-09,João Silva,Fone Bluetooth,Áudio,Nordeste,2,168.07,336.14,35.87
+ORD-000335,2025-12-01,Maria Santos,Fone Bluetooth,Áudio,Norte,7,195.12,1365.84,284.03
+ORD-000336,2025-02-26,Carlos Ferreira,Cabo HDMI,Cabos,Centro-Oeste,4,56.32,225.28,55.49
+ORD-000337,2025-07-11,Thiago Moreira,Microfone USB,Áudio,Centro-Oeste,4,276.21,1104.84,142.14
+ORD-000338,2026-01-02,Felipe Nascimento,Fone Bluetooth,Áudio,Sudeste,5,182.01,910.05,192.33
+ORD-000339,2025-11-27,Lucia Almeida,Cadeira Gamer,Móveis,Sul,8,491.25,3930.0,663.71
+ORD-000340,2025-12-24,Antonio Gomes,Cabo HDMI,Cabos,Centro-Oeste,7,48.17,337.19,53.94
+ORD-000341,2025-05-03,Gabriela Cardoso,Luminária LED,Iluminação,Nordeste,4,110.44,441.76,106.69
+ORD-000342,2025-09-23,Maria Santos,Carregador Portátil,Acessórios,Sudeste,7,81.83,572.81,72.64
+ORD-000343,2025-06-02,Ricardo Pereira,Tablet iPad,Tablets,Centro-Oeste,2,2337.78,4675.56,1259.72
+ORD-000344,2025-03-17,Gabriela Cardoso,Tablet iPad,Tablets,Norte,5,1901.73,9508.65,2101.35
+ORD-000345,2025-02-18,Pedro Oliveira,Tablet iPad,Tablets,Sul,9,1773.61,15962.49,2263.13
+ORD-000346,2025-07-18,Juliana Rocha,Notebook Dell,Computadores,Nordeste,4,2962.08,11848.32,1462.83
+ORD-000347,2025-10-01,Fernanda Souza,Microfone USB,Áudio,Nordeste,7,349.82,2448.74,515.25
+ORD-000348,2025-06-22,Antonio Gomes,Mesa Escritório,Móveis,Sul,6,369.35,2216.1,381.01
+ORD-000349,2025-10-10,Eduardo Ribeiro,Monitor Samsung,Monitores,Sudeste,6,932.59,5595.54,974.41
+ORD-000350,2025-08-28,Maria Santos,Caixa de Som,Áudio,Nordeste,3,201.62,604.86,127.42
+ORD-000351,2025-11-24,Thiago Moreira,Cadeira Gamer,Móveis,Centro-Oeste,3,527.09,1581.27,230.87
+ORD-000352,2025-11-16,Fernanda Souza,Luminária LED,Iluminação,Sul,6,108.35,650.1,171.83
+ORD-000353,2025-12-23,Beatriz Castro,Mesa Escritório,Móveis,Nordeste,6,347.08,2082.48,508.26
+ORD-000354,2025-10-06,Lucia Almeida,Carregador Portátil,Acessórios,Norte,9,65.08,585.72,157.76
+ORD-000355,2026-01-06,Maria Santos,Notebook Dell,Computadores,Sudeste,3,2842.54,8527.62,1247.48
+ORD-000356,2026-01-26,Carlos Ferreira,Notebook Dell,Computadores,Nordeste,9,2456.01,22104.09,2477.65
+ORD-000357,2025-12-21,Camila Araujo,Luminária LED,Iluminação,Sudeste,1,96.32,96.32,20.26
+ORD-000358,2025-02-04,João Silva,Cabo HDMI,Cabos,Centro-Oeste,9,59.55,535.95,55.43
+ORD-000359,2026-01-21,Carla Martins,Smartphone iPhone,Celulares,Norte,2,3534.14,7068.28,1047.48
+ORD-000360,2025-12-12,Felipe Nascimento,Webcam HD,Periféricos,Centro-Oeste,5,201.24,1006.2,116.52
+ORD-000361,2025-08-24,Eduardo Ribeiro,Caixa de Som,Áudio,Nordeste,4,230.0,920.0,244.36
+ORD-000362,2025-03-11,Maria Santos,Teclado Mecânico,Periféricos,Sudeste,7,285.26,1996.82,389.78
+ORD-000363,2025-12-21,João Silva,Smartphone iPhone,Celulares,Norte,8,3983.46,31867.68,7297.11
+ORD-000364,2025-07-17,Thiago Moreira,Monitor Samsung,Monitores,Sul,1,713.53,713.53,199.97
+ORD-000365,2026-01-18,Thiago Moreira,Luminária LED,Iluminação,Centro-Oeste,1,140.36,140.36,33.25
+ORD-000366,2025-06-21,Gabriela Cardoso,Caixa de Som,Áudio,Norte,3,292.88,878.64,143.13
+ORD-000367,2025-05-15,Thiago Moreira,Impressora HP,Impressoras,Sudeste,2,413.87,827.74,176.14
+ORD-000368,2025-11-15,Antonio Gomes,Carregador Portátil,Acessórios,Centro-Oeste,7,88.18,617.26,79.0
+ORD-000369,2026-01-16,Pedro Oliveira,Cabo HDMI,Cabos,Centro-Oeste,1,41.95,41.95,6.14
+ORD-000370,2025-03-08,Marcos Barbosa,Microfone USB,Áudio,Sul,10,287.6,2876.0,732.55
+ORD-000371,2025-02-13,Ricardo Pereira,Mesa Escritório,Móveis,Sudeste,4,376.93,1507.72,434.57
+ORD-000372,2025-09-07,Lucia Almeida,Caixa de Som,Áudio,Sudeste,2,277.22,554.44,88.2
+ORD-000373,2025-06-04,Pedro Oliveira,Teclado Mecânico,Periféricos,Centro-Oeste,3,285.6,856.8,220.01
+ORD-000374,2025-04-17,Antonio Gomes,Memória RAM 16GB,Componentes,Centro-Oeste,2,334.64,669.28,193.15
+ORD-000375,2025-09-13,Patricia Dias,Webcam HD,Periféricos,Norte,3,150.29,450.87,83.95
+ORD-000376,2025-11-10,Gabriela Cardoso,Cabo HDMI,Cabos,Sudeste,2,40.53,81.06,13.84
+ORD-000377,2025-03-17,Camila Araujo,Microfone USB,Áudio,Centro-Oeste,7,241.48,1690.36,308.93
+ORD-000378,2025-03-13,Gabriela Cardoso,Fone Bluetooth,Áudio,Sul,9,173.57,1562.13,275.16
+ORD-000379,2025-04-10,Ricardo Pereira,SSD 500GB,Armazenamento,Centro-Oeste,8,300.43,2403.44,320.72
+ORD-000380,2025-06-19,Carla Martins,SSD 500GB,Armazenamento,Sudeste,2,330.56,661.12,190.96
+ORD-000381,2025-12-15,Beatriz Castro,Microfone USB,Áudio,Sul,4,294.94,1179.76,149.95
+ORD-000382,2025-02-01,Antonio Gomes,Memória RAM 16GB,Componentes,Sul,7,448.65,3140.55,521.04
+ORD-000383,2025-07-19,Carla Martins,Microfone USB,Áudio,Nordeste,5,278.48,1392.4,403.04
+ORD-000384,2025-05-11,Beatriz Castro,Memória RAM 16GB,Componentes,Nordeste,7,475.0,3325.0,526.31
+ORD-000385,2026-01-19,Beatriz Castro,Caixa de Som,Áudio,Nordeste,6,237.61,1425.66,375.37
+ORD-000386,2025-08-18,Patricia Dias,Monitor Samsung,Monitores,Sul,4,829.51,3318.04,693.89
+ORD-000387,2026-01-13,Gabriela Cardoso,Notebook Dell,Computadores,Sudeste,4,2438.45,9753.8,1543.7
+ORD-000388,2026-01-18,Pedro Oliveira,Cadeira Gamer,Móveis,Sudeste,3,632.0,1896.0,281.37
+ORD-000389,2026-01-01,Carlos Ferreira,Cadeira Gamer,Móveis,Sudeste,2,587.78,1175.56,258.14
+ORD-000390,2025-11-23,Antonio Gomes,Carregador Portátil,Acessórios,Sul,7,81.4,569.8,147.09
+ORD-000391,2025-08-01,Gabriela Cardoso,Microfone USB,Áudio,Norte,2,332.27,664.54,153.85
+ORD-000392,2025-07-29,Lucia Almeida,Microfone USB,Áudio,Norte,10,358.03,3580.3,843.14
+ORD-000393,2025-08-21,Marcos Barbosa,Cadeira Gamer,Móveis,Norte,1,503.67,503.67,72.73
+ORD-000394,2025-10-21,Gabriela Cardoso,Caixa de Som,Áudio,Sul,4,244.58,978.32,174.36
+ORD-000395,2026-01-11,Thiago Moreira,Cabo HDMI,Cabos,Nordeste,6,59.95,359.7,70.7
+ORD-000396,2025-06-29,Carla Martins,Teclado Mecânico,Periféricos,Norte,3,281.8,845.4,142.55
+ORD-000397,2025-05-14,Felipe Nascimento,Luminária LED,Iluminação,Centro-Oeste,8,100.69,805.52,196.87
+ORD-000398,2025-09-17,Marcos Barbosa,Teclado Mecânico,Periféricos,Centro-Oeste,1,337.22,337.22,41.48
+ORD-000399,2025-07-23,Ana Costa,Smartphone iPhone,Celulares,Nordeste,9,3044.23,27398.07,3617.29
+ORD-000400,2025-11-11,Carla Martins,Mesa Escritório,Móveis,Nordeste,7,420.76,2945.32,404.33
+ORD-000401,2025-12-31,Carla Martins,Processador Intel,Componentes,Norte,10,922.59,9225.9,1752.14
+ORD-000402,2025-09-05,Antonio Gomes,Notebook Dell,Computadores,Nordeste,4,2278.34,9113.36,2194.06
+ORD-000403,2025-03-02,Thiago Moreira,Monitor Samsung,Monitores,Sul,3,757.05,2271.15,316.63
+ORD-000404,2025-03-28,Ricardo Pereira,Luminária LED,Iluminação,Sul,6,124.65,747.9,166.23
+ORD-000405,2025-11-25,Ana Costa,Placa de Vídeo,Componentes,Centro-Oeste,8,1256.33,10050.64,2640.78
+ORD-000406,2026-01-25,Juliana Rocha,Microfone USB,Áudio,Sul,2,320.65,641.3,104.3
+ORD-000407,2025-05-31,Juliana Rocha,Monitor Samsung,Monitores,Nordeste,6,861.9,5171.4,1045.48
+ORD-000408,2025-08-31,Camila Araujo,Impressora HP,Impressoras,Sul,7,436.15,3053.05,602.47
+ORD-000409,2025-10-31,Lucia Almeida,Carregador Portátil,Acessórios,Nordeste,8,73.24,585.92,80.52
+ORD-000410,2025-09-16,Camila Araujo,Mouse Logitech,Periféricos,Centro-Oeste,1,149.08,149.08,20.73
+ORD-000411,2025-08-13,Gabriela Cardoso,Cabo HDMI,Cabos,Sudeste,7,53.69,375.83,68.82
+ORD-000412,2025-09-13,Beatriz Castro,Smartphone iPhone,Celulares,Norte,10,2843.2,28432.0,7170.87
+ORD-000413,2025-06-27,Maria Santos,Webcam HD,Periféricos,Nordeste,9,164.78,1483.02,379.87
+ORD-000414,2025-11-14,Beatriz Castro,Carregador Portátil,Acessórios,Sul,2,82.33,164.66,25.29
+ORD-000415,2025-11-03,Patricia Dias,Carregador Portátil,Acessórios,Norte,8,81.48,651.84,194.22
+ORD-000416,2025-03-22,Fernanda Souza,SSD 500GB,Armazenamento,Norte,8,316.79,2534.32,690.45
+ORD-000417,2025-03-14,Eduardo Ribeiro,Monitor Samsung,Monitores,Nordeste,4,899.42,3597.68,782.8
+ORD-000418,2025-07-27,Camila Araujo,Cadeira Gamer,Móveis,Nordeste,10,513.42,5134.2,725.59
+ORD-000419,2025-05-14,Maria Santos,Caixa de Som,Áudio,Centro-Oeste,9,228.11,2052.99,426.52
+ORD-000420,2025-07-13,Juliana Rocha,SSD 500GB,Armazenamento,Sul,5,413.34,2066.7,419.3
+ORD-000421,2026-01-11,Ana Costa,Impressora HP,Impressoras,Sudeste,1,538.65,538.65,147.27
+ORD-000422,2025-04-03,Carlos Ferreira,Fone Bluetooth,Áudio,Nordeste,6,226.28,1357.68,342.54
+ORD-000423,2026-01-10,Antonio Gomes,Luminária LED,Iluminação,Nordeste,10,126.36,1263.6,285.02
+ORD-000424,2025-08-09,Eduardo Ribeiro,Teclado Mecânico,Periféricos,Norte,7,301.87,2113.09,328.89
+ORD-000425,2025-08-05,Eduardo Ribeiro,Luminária LED,Iluminação,Centro-Oeste,10,96.12,961.2,244.94
+ORD-000426,2025-03-17,Eduardo Ribeiro,Placa de Vídeo,Componentes,Norte,9,1150.9,10358.1,3041.4
+ORD-000427,2025-05-17,Beatriz Castro,Webcam HD,Periféricos,Centro-Oeste,5,168.32,841.6,181.44
+ORD-000428,2025-11-14,Beatriz Castro,Memória RAM 16GB,Componentes,Norte,1,335.93,335.93,86.26
+ORD-000429,2025-09-21,João Silva,Monitor Samsung,Monitores,Nordeste,8,786.09,6288.72,1876.35
+ORD-000430,2025-09-05,Roberto Lima,Impressora HP,Impressoras,Centro-Oeste,3,517.4,1552.2,427.35
+ORD-000431,2025-03-17,Patricia Dias,Webcam HD,Periféricos,Norte,6,191.84,1151.04,264.49
+ORD-000432,2025-02-24,Antonio Gomes,SSD 500GB,Armazenamento,Nordeste,7,371.77,2602.39,626.5
+ORD-000433,2025-01-29,Roberto Lima,Luminária LED,Iluminação,Norte,3,124.5,373.5,76.15
+ORD-000434,2025-09-13,João Silva,Notebook Dell,Computadores,Centro-Oeste,2,2988.15,5976.3,1102.4
+ORD-000435,2025-04-06,Beatriz Castro,Teclado Mecânico,Periféricos,Nordeste,7,250.72,1755.04,458.4
+ORD-000436,2025-03-22,Marcos Barbosa,Placa de Vídeo,Componentes,Centro-Oeste,3,1143.71,3431.13,901.27
+ORD-000437,2025-04-07,Carlos Ferreira,Teclado Mecânico,Periféricos,Sul,10,241.02,2410.2,554.36
+ORD-000438,2025-09-11,Patricia Dias,Tablet iPad,Tablets,Nordeste,7,2092.86,14650.02,2761.19
+ORD-000439,2025-05-20,Pedro Oliveira,Monitor Samsung,Monitores,Nordeste,2,828.66,1657.32,293.02
+ORD-000440,2025-09-05,Marcos Barbosa,Impressora HP,Impressoras,Nordeste,5,476.03,2380.15,356.15
+ORD-000441,2025-12-02,Camila Araujo,Microfone USB,Áudio,Centro-Oeste,1,341.75,341.75,79.18
+ORD-000442,2025-07-02,Roberto Lima,Cabo HDMI,Cabos,Sul,9,43.77,393.93,70.26
+ORD-000443,2025-12-25,Maria Santos,Fone Bluetooth,Áudio,Sudeste,7,169.02,1183.14,236.53
+ORD-000444,2025-11-29,Pedro Oliveira,Cabo HDMI,Cabos,Norte,6,58.68,352.08,44.5
+ORD-000445,2025-11-16,Carla Martins,Placa de Vídeo,Componentes,Sul,3,1326.11,3978.33,1157.26
+ORD-000446,2025-03-07,João Silva,Caixa de Som,Áudio,Norte,1,226.22,226.22,24.42
+ORD-000447,2025-02-28,Antonio Gomes,Cabo HDMI,Cabos,Centro-Oeste,9,55.34,498.06,92.0
+ORD-000448,2025-08-22,Pedro Oliveira,Carregador Portátil,Acessórios,Sul,10,68.89,688.9,80.41
+ORD-000449,2025-03-10,Felipe Nascimento,Tablet iPad,Tablets,Nordeste,9,1861.4,16752.6,3640.13
+ORD-000450,2025-12-27,Pedro Oliveira,SSD 500GB,Armazenamento,Sudeste,4,288.11,1152.44,135.12
+ORD-000451,2025-09-08,Ana Costa,Mesa Escritório,Móveis,Sul,10,328.8,3288.0,766.81
+ORD-000452,2025-12-31,Lucia Almeida,Monitor Samsung,Monitores,Norte,3,864.48,2593.44,344.32
+ORD-000453,2025-07-25,Felipe Nascimento,Cabo HDMI,Cabos,Centro-Oeste,3,47.44,142.32,35.57
+ORD-000454,2025-06-15,Ana Costa,Notebook Dell,Computadores,Centro-Oeste,7,2271.98,15903.86,1793.55
+ORD-000455,2026-01-28,Thiago Moreira,Teclado Mecânico,Periféricos,Sudeste,8,301.29,2410.32,267.76
+ORD-000456,2025-11-15,Lucia Almeida,Placa de Vídeo,Componentes,Nordeste,5,1331.2,6656.0,1856.05
+ORD-000457,2026-01-09,Ana Costa,Fone Bluetooth,Áudio,Sul,1,163.52,163.52,44.57
+ORD-000458,2025-06-03,Maria Santos,Luminária LED,Iluminação,Centro-Oeste,7,140.17,981.19,133.24
+ORD-000459,2025-02-16,Gabriela Cardoso,Cadeira Gamer,Móveis,Nordeste,6,539.58,3237.48,916.76
+ORD-000460,2025-07-11,Ricardo Pereira,Teclado Mecânico,Periféricos,Sul,6,254.33,1525.98,358.09
+ORD-000461,2025-02-24,Lucia Almeida,Fone Bluetooth,Áudio,Sul,1,236.33,236.33,26.89
+ORD-000462,2025-09-24,Juliana Rocha,SSD 500GB,Armazenamento,Centro-Oeste,2,357.43,714.86,72.63
+ORD-000463,2025-05-11,Juliana Rocha,Caixa de Som,Áudio,Centro-Oeste,10,224.26,2242.6,389.44
+ORD-000464,2025-10-08,Roberto Lima,Carregador Portátil,Acessórios,Nordeste,3,64.2,192.6,35.05
+ORD-000465,2025-05-28,Gabriela Cardoso,Placa de Vídeo,Componentes,Norte,6,960.7,5764.2,1334.19
+ORD-000466,2025-07-05,Ana Costa,Tablet iPad,Tablets,Sul,4,1935.85,7743.4,2262.91
+ORD-000467,2025-04-11,Ricardo Pereira,Teclado Mecânico,Periféricos,Norte,4,347.67,1390.68,283.63
+ORD-000468,2026-01-22,Patricia Dias,Mesa Escritório,Móveis,Norte,10,335.29,3352.9,424.82
+ORD-000469,2025-08-18,Pedro Oliveira,Caixa de Som,Áudio,Sul,1,243.5,243.5,71.31
+ORD-000470,2025-05-30,Juliana Rocha,Webcam HD,Periféricos,Centro-Oeste,7,194.45,1361.15,336.3
+ORD-000471,2025-07-10,Eduardo Ribeiro,Webcam HD,Periféricos,Nordeste,2,211.94,423.88,53.93
+ORD-000472,2025-11-24,Ana Costa,Impressora HP,Impressoras,Norte,3,440.92,1322.76,215.35
+ORD-000473,2025-03-31,Gabriela Cardoso,Placa de Vídeo,Componentes,Nordeste,8,1107.99,8863.92,1356.19
+ORD-000474,2025-03-31,Pedro Oliveira,Smartphone iPhone,Celulares,Centro-Oeste,10,2856.46,28564.6,7632.03
+ORD-000475,2025-07-15,Carlos Ferreira,Teclado Mecânico,Periféricos,Nordeste,6,287.55,1725.3,189.42
+ORD-000476,2025-07-01,Ricardo Pereira,Smartphone iPhone,Celulares,Norte,7,3996.44,27975.08,5908.08
+ORD-000477,2025-11-06,Fernanda Souza,Monitor Samsung,Monitores,Sudeste,2,897.25,1794.5,229.62
+ORD-000478,2025-02-04,Maria Santos,Fone Bluetooth,Áudio,Nordeste,4,225.89,903.56,157.62
+ORD-000479,2025-12-17,Pedro Oliveira,Caixa de Som,Áudio,Sul,5,291.74,1458.7,167.75
+ORD-000480,2025-03-03,Roberto Lima,Mesa Escritório,Móveis,Nordeste,2,464.81,929.62,247.16
+ORD-000481,2025-07-17,Ana Costa,Mouse Logitech,Periféricos,Sudeste,1,130.08,130.08,27.94
+ORD-000482,2025-08-19,Beatriz Castro,Notebook Dell,Computadores,Sudeste,7,2172.81,15209.67,2174.12
+ORD-000483,2025-05-04,Ricardo Pereira,Webcam HD,Periféricos,Sudeste,3,146.49,439.47,98.37
+ORD-000484,2025-06-03,Juliana Rocha,Luminária LED,Iluminação,Sudeste,9,118.99,1070.91,125.88
+ORD-000485,2025-08-13,Carlos Ferreira,Cadeira Gamer,Móveis,Nordeste,9,539.8,4858.2,1451.71
+ORD-000486,2025-11-03,João Silva,Processador Intel,Componentes,Centro-Oeste,8,814.25,6514.0,1282.84
+ORD-000487,2025-11-14,Felipe Nascimento,Memória RAM 16GB,Componentes,Sudeste,5,348.77,1743.85,285.6
+ORD-000488,2025-05-21,João Silva,Webcam HD,Periféricos,Norte,8,182.12,1456.96,369.15
+ORD-000489,2025-05-28,Lucia Almeida,Monitor Samsung,Monitores,Nordeste,4,725.29,2901.16,763.75
+ORD-000490,2025-02-26,Fernanda Souza,Caixa de Som,Áudio,Sudeste,6,293.52,1761.12,525.36
+ORD-000491,2025-04-27,Lucia Almeida,Fone Bluetooth,Áudio,Sul,6,224.5,1347.0,322.64
+ORD-000492,2025-11-27,João Silva,Placa de Vídeo,Componentes,Sul,10,1028.21,10282.1,2978.45
+ORD-000493,2025-10-08,Gabriela Cardoso,SSD 500GB,Armazenamento,Nordeste,8,285.31,2282.48,253.89
+ORD-000494,2025-12-03,Fernanda Souza,Notebook Dell,Computadores,Sul,8,2000.68,16005.44,4538.81
+ORD-000495,2025-05-12,Carlos Ferreira,Memória RAM 16GB,Componentes,Nordeste,6,329.53,1977.18,256.13
+ORD-000496,2026-01-24,Carlos Ferreira,Monitor Samsung,Monitores,Sul,6,947.38,5684.28,993.15
+ORD-000497,2026-01-03,Antonio Gomes,Caixa de Som,Áudio,Norte,6,230.18,1381.08,175.8
+ORD-000498,2025-04-19,Carla Martins,Luminária LED,Iluminação,Centro-Oeste,3,129.94,389.82,82.8
+ORD-000499,2025-12-09,Patricia Dias,Fone Bluetooth,Áudio,Sul,3,190.27,570.81,140.88
+ORD-000500,2025-06-28,Carlos Ferreira,Smartphone iPhone,Celulares,Norte,10,3348.24,33482.4,10006.44
+ORD-000501,2025-11-15,Maria Santos,Smartphone iPhone,Celulares,Sul,6,4089.45,24536.7,7201.68
+ORD-000502,2025-05-22,Thiago Moreira,Monitor Samsung,Monitores,Sudeste,3,745.97,2237.91,258.62
+ORD-000503,2025-07-25,Marcos Barbosa,Smartphone iPhone,Celulares,Norte,6,3425.28,20551.68,3145.28
+ORD-000504,2025-06-05,Pedro Oliveira,Placa de Vídeo,Componentes,Centro-Oeste,2,1305.8,2611.6,286.31
+ORD-000505,2025-09-10,Carla Martins,Smartphone iPhone,Celulares,Sudeste,8,4034.48,32275.84,5494.84
+ORD-000506,2025-08-09,Ana Costa,Luminária LED,Iluminação,Sul,4,103.81,415.24,47.65
+ORD-000507,2025-02-15,Juliana Rocha,Notebook Dell,Computadores,Centro-Oeste,5,2951.66,14758.3,1694.84
+ORD-000508,2025-04-26,Antonio Gomes,Smartphone iPhone,Celulares,Norte,9,4118.57,37067.13,10957.35
+ORD-000509,2025-07-21,Camila Araujo,Microfone USB,Áudio,Sudeste,1,291.76,291.76,67.32
+ORD-000510,2025-12-05,Carla Martins,Smartphone iPhone,Celulares,Norte,2,3263.53,6527.06,1924.7
+ORD-000511,2025-08-26,Gabriela Cardoso,Carregador Portátil,Acessórios,Centro-Oeste,5,73.52,367.6,43.81
+ORD-000512,2025-08-18,Thiago Moreira,Carregador Portátil,Acessórios,Sudeste,3,65.74,197.22,19.87
+ORD-000513,2025-03-14,Juliana Rocha,Microfone USB,Áudio,Sudeste,4,251.64,1006.56,142.32
+ORD-000514,2025-12-21,Juliana Rocha,Teclado Mecânico,Periféricos,Sudeste,2,277.0,554.0,99.44
+ORD-000515,2025-10-06,Ricardo Pereira,Teclado Mecânico,Periféricos,Sul,7,262.19,1835.33,508.57
+ORD-000516,2025-08-06,Lucia Almeida,Mesa Escritório,Móveis,Norte,5,390.36,1951.8,298.0
+ORD-000517,2025-06-15,Thiago Moreira,Mouse Logitech,Periféricos,Nordeste,2,125.14,250.28,42.24
+ORD-000518,2025-11-02,Carla Martins,Caixa de Som,Áudio,Nordeste,9,206.1,1854.9,329.1
+ORD-000519,2025-10-23,Carla Martins,Carregador Portátil,Acessórios,Sudeste,10,92.21,922.1,180.04
+ORD-000520,2025-03-10,Antonio Gomes,Mouse Logitech,Periféricos,Sul,10,174.03,1740.3,452.63
+ORD-000521,2026-01-10,Camila Araujo,Impressora HP,Impressoras,Norte,8,391.12,3128.96,928.91
+ORD-000522,2025-05-17,Roberto Lima,Impressora HP,Impressoras,Norte,7,374.11,2618.77,619.67
+ORD-000523,2025-05-12,Carlos Ferreira,Microfone USB,Áudio,Centro-Oeste,6,349.3,2095.8,592.77
+ORD-000524,2025-03-04,Pedro Oliveira,Processador Intel,Componentes,Sul,7,816.66,5716.62,1551.06
+ORD-000525,2025-10-22,Eduardo Ribeiro,Notebook Dell,Computadores,Sul,10,2522.56,25225.6,4639.46
+ORD-000526,2025-08-29,Carlos Ferreira,Impressora HP,Impressoras,Sul,10,464.88,4648.8,1361.94
+ORD-000527,2025-03-21,Ana Costa,Caixa de Som,Áudio,Norte,5,286.75,1433.75,395.75
+ORD-000528,2025-08-27,Ricardo Pereira,Processador Intel,Componentes,Sudeste,10,834.87,8348.7,897.43
+ORD-000529,2025-06-19,Antonio Gomes,Impressora HP,Impressoras,Sul,10,482.55,4825.5,870.25
+ORD-000530,2025-08-19,Marcos Barbosa,Fone Bluetooth,Áudio,Norte,8,233.67,1869.36,522.31
+ORD-000531,2025-02-08,Marcos Barbosa,SSD 500GB,Armazenamento,Centro-Oeste,5,398.0,1990.0,540.58
+ORD-000532,2026-01-14,Ana Costa,Fone Bluetooth,Áudio,Nordeste,5,237.94,1189.7,224.4
+ORD-000533,2025-07-12,Ricardo Pereira,Cadeira Gamer,Móveis,Sul,2,525.1,1050.2,149.42
+ORD-000534,2025-08-25,Beatriz Castro,Cabo HDMI,Cabos,Centro-Oeste,1,50.31,50.31,6.63
+ORD-000535,2025-07-07,Felipe Nascimento,Processador Intel,Componentes,Nordeste,9,921.39,8292.51,877.26
+ORD-000536,2025-05-07,Roberto Lima,Mouse Logitech,Periféricos,Nordeste,1,147.39,147.39,41.8
+ORD-000537,2026-01-24,Roberto Lima,Webcam HD,Periféricos,Centro-Oeste,8,180.37,1442.96,327.67
+ORD-000538,2025-04-02,João Silva,Fone Bluetooth,Áudio,Centro-Oeste,8,207.52,1660.16,224.98
+ORD-000539,2025-09-28,Thiago Moreira,Carregador Portátil,Acessórios,Centro-Oeste,6,69.23,415.38,115.85
+ORD-000540,2026-01-16,Pedro Oliveira,SSD 500GB,Armazenamento,Norte,7,286.95,2008.65,543.87
+ORD-000541,2025-05-18,Fernanda Souza,Fone Bluetooth,Áudio,Nordeste,5,212.13,1060.65,214.95
+ORD-000542,2026-01-13,João Silva,Luminária LED,Iluminação,Nordeste,3,124.85,374.55,38.09
+ORD-000543,2025-06-07,Camila Araujo,SSD 500GB,Armazenamento,Centro-Oeste,7,405.37,2837.59,767.05
+ORD-000544,2025-09-21,Ricardo Pereira,Tablet iPad,Tablets,Sudeste,5,2141.76,10708.8,2836.36
+ORD-000545,2025-08-20,Thiago Moreira,Monitor Samsung,Monitores,Norte,9,959.82,8638.38,2533.61
+ORD-000546,2025-08-08,Gabriela Cardoso,Microfone USB,Áudio,Sul,5,275.82,1379.1,167.73
+ORD-000547,2025-03-02,Marcos Barbosa,Webcam HD,Periféricos,Centro-Oeste,5,162.8,814.0,197.17
+ORD-000548,2025-12-28,Juliana Rocha,Tablet iPad,Tablets,Nordeste,9,2212.38,19911.42,5573.95
+ORD-000549,2025-12-02,Antonio Gomes,Memória RAM 16GB,Componentes,Nordeste,1,424.86,424.86,127.24
+ORD-000550,2025-06-10,Carla Martins,Processador Intel,Componentes,Sudeste,1,826.57,826.57,247.1
+ORD-000551,2025-05-06,Marcos Barbosa,Fone Bluetooth,Áudio,Sul,8,232.52,1860.16,435.97
+ORD-000552,2025-10-15,Juliana Rocha,Smartphone iPhone,Celulares,Sul,3,3211.3,9633.9,1870.48
+ORD-000553,2025-06-10,Gabriela Cardoso,Smartphone iPhone,Celulares,Centro-Oeste,2,3111.15,6222.3,900.15
+ORD-000554,2025-07-05,Carla Martins,Memória RAM 16GB,Componentes,Centro-Oeste,5,413.69,2068.45,398.7
+ORD-000555,2025-03-30,Beatriz Castro,Mouse Logitech,Periféricos,Sul,10,176.66,1766.6,201.82
+ORD-000556,2025-05-08,Felipe Nascimento,Monitor Samsung,Monitores,Sudeste,9,735.47,6619.23,733.49
+ORD-000557,2025-04-16,Carlos Ferreira,Tablet iPad,Tablets,Centro-Oeste,7,2389.75,16728.25,4659.97
+ORD-000558,2025-09-20,Carlos Ferreira,Memória RAM 16GB,Componentes,Nordeste,2,398.01,796.02,180.06
+ORD-000559,2025-04-29,Marcos Barbosa,Mouse Logitech,Periféricos,Norte,8,136.41,1091.28,275.26
+ORD-000560,2025-04-25,Thiago Moreira,Smartphone iPhone,Celulares,Sudeste,2,2981.17,5962.34,1113.42
+ORD-000561,2025-09-05,Antonio Gomes,Cadeira Gamer,Móveis,Sudeste,7,481.12,3367.84,696.32
+ORD-000562,2025-08-08,João Silva,Memória RAM 16GB,Componentes,Sul,4,322.87,1291.48,130.21
+ORD-000563,2025-06-05,Fernanda Souza,Placa de Vídeo,Componentes,Centro-Oeste,3,1009.3,3027.9,607.6
+ORD-000564,2025-07-04,Lucia Almeida,Teclado Mecânico,Periféricos,Norte,5,353.82,1769.1,338.23
+ORD-000565,2025-10-22,Camila Araujo,Cabo HDMI,Cabos,Centro-Oeste,7,57.76,404.32,120.93
+ORD-000566,2025-07-23,Beatriz Castro,Placa de Vídeo,Componentes,Nordeste,3,1415.08,4245.24,1204.12
+ORD-000567,2025-08-23,João Silva,Fone Bluetooth,Áudio,Nordeste,3,176.9,530.7,55.4
+ORD-000568,2025-10-14,Lucia Almeida,Monitor Samsung,Monitores,Centro-Oeste,1,760.06,760.06,173.34
+ORD-000569,2025-10-29,Camila Araujo,Mouse Logitech,Periféricos,Sul,1,159.72,159.72,36.85
+ORD-000570,2025-02-08,Maria Santos,Monitor Samsung,Monitores,Sudeste,8,761.68,6093.44,1276.31
+ORD-000571,2025-09-28,Carlos Ferreira,Tablet iPad,Tablets,Norte,5,1936.7,9683.5,1163.92
+ORD-000572,2025-10-22,Ricardo Pereira,Microfone USB,Áudio,Sul,3,290.26,870.78,243.58
+ORD-000573,2025-10-17,Camila Araujo,Monitor Samsung,Monitores,Centro-Oeste,2,891.12,1782.24,355.64
+ORD-000574,2025-12-06,Roberto Lima,Webcam HD,Periféricos,Sul,4,169.77,679.08,123.56
+ORD-000575,2025-04-21,Maria Santos,Carregador Portátil,Acessórios,Sudeste,4,86.02,344.08,67.49
+ORD-000576,2025-05-29,João Silva,Notebook Dell,Computadores,Norte,2,2835.23,5670.46,1325.78
+ORD-000577,2025-04-15,Pedro Oliveira,Cabo HDMI,Cabos,Norte,2,58.1,116.2,26.59
+ORD-000578,2025-09-19,Juliana Rocha,Webcam HD,Periféricos,Sudeste,1,151.19,151.19,20.4
+ORD-000579,2025-02-18,Juliana Rocha,Placa de Vídeo,Componentes,Centro-Oeste,7,1314.5,9201.5,1094.98
+ORD-000580,2025-02-21,João Silva,Impressora HP,Impressoras,Nordeste,6,424.35,2546.1,477.5
+ORD-000581,2025-12-13,Ricardo Pereira,Teclado Mecânico,Periféricos,Centro-Oeste,6,261.94,1571.64,283.14
+ORD-000582,2025-09-19,Ricardo Pereira,Processador Intel,Componentes,Sudeste,7,847.63,5933.41,1539.02
+ORD-000583,2025-03-27,Carlos Ferreira,Mouse Logitech,Periféricos,Nordeste,2,144.96,289.92,63.25
+ORD-000584,2025-11-16,Eduardo Ribeiro,Smartphone iPhone,Celulares,Sul,7,3890.83,27235.81,6053.75
+ORD-000585,2026-01-14,Carlos Ferreira,Luminária LED,Iluminação,Sudeste,2,138.6,277.2,52.15
+ORD-000586,2025-03-02,Ricardo Pereira,Memória RAM 16GB,Componentes,Norte,9,442.8,3985.2,858.13
+ORD-000587,2025-11-14,Fernanda Souza,Memória RAM 16GB,Componentes,Sul,9,430.12,3871.08,865.76
+ORD-000588,2025-09-07,Fernanda Souza,Luminária LED,Iluminação,Centro-Oeste,7,103.14,721.98,191.53
+ORD-000589,2025-12-08,Maria Santos,Notebook Dell,Computadores,Nordeste,9,2848.85,25639.65,6932.3
+ORD-000590,2025-04-23,Pedro Oliveira,Luminária LED,Iluminação,Centro-Oeste,4,111.88,447.52,69.65
+ORD-000591,2025-10-15,Fernanda Souza,Carregador Portátil,Acessórios,Sudeste,7,90.15,631.05,73.05
+ORD-000592,2025-09-13,Thiago Moreira,Mesa Escritório,Móveis,Norte,8,391.53,3132.24,387.59
+ORD-000593,2025-10-10,João Silva,Monitor Samsung,Monitores,Sudeste,7,651.47,4560.29,956.84
+ORD-000594,2025-03-16,Camila Araujo,Microfone USB,Áudio,Centro-Oeste,9,307.48,2767.32,639.03
+ORD-000595,2025-09-19,Marcos Barbosa,Placa de Vídeo,Componentes,Norte,4,1365.27,5461.08,908.69
+ORD-000596,2025-12-12,Camila Araujo,Luminária LED,Iluminação,Centro-Oeste,8,101.47,811.76,204.45
+ORD-000597,2025-05-22,João Silva,Memória RAM 16GB,Componentes,Centro-Oeste,5,407.63,2038.15,356.22
+ORD-000598,2025-03-24,Maria Santos,Smartphone iPhone,Celulares,Sudeste,3,3950.57,11851.71,2945.18
+ORD-000599,2025-08-26,Ana Costa,Webcam HD,Periféricos,Sul,4,157.5,630.0,180.21
+ORD-000600,2025-08-18,Roberto Lima,Mesa Escritório,Móveis,Nordeste,6,337.24,2023.44,370.08
+ORD-000601,2025-12-19,Thiago Moreira,Monitor Samsung,Monitores,Sudeste,8,850.71,6805.68,1982.07
+ORD-000602,2025-04-07,Beatriz Castro,Notebook Dell,Computadores,Sul,1,2553.23,2553.23,476.34
+ORD-000603,2025-11-24,Beatriz Castro,Cabo HDMI,Cabos,Nordeste,10,43.47,434.7,114.35
+ORD-000604,2025-03-23,Antonio Gomes,Microfone USB,Áudio,Sul,6,300.49,1802.94,319.0
+ORD-000605,2025-12-06,Fernanda Souza,Webcam HD,Periféricos,Sudeste,6,213.88,1283.28,244.55
+ORD-000606,2025-04-07,Carlos Ferreira,Cadeira Gamer,Móveis,Sul,9,551.74,4965.66,1193.24
+ORD-000607,2025-07-08,Gabriela Cardoso,Tablet iPad,Tablets,Nordeste,4,2099.33,8397.32,1327.75
+ORD-000608,2025-07-24,Carlos Ferreira,Smartphone iPhone,Celulares,Sul,9,3772.04,33948.36,5583.7
+ORD-000609,2025-03-29,Patricia Dias,Carregador Portátil,Acessórios,Sudeste,10,82.26,822.6,192.02
+ORD-000610,2025-08-30,Gabriela Cardoso,SSD 500GB,Armazenamento,Sudeste,1,353.18,353.18,37.1
+ORD-000611,2025-04-13,Maria Santos,Mouse Logitech,Periféricos,Nordeste,5,165.01,825.05,109.06
+ORD-000612,2025-06-24,Ricardo Pereira,Impressora HP,Impressoras,Norte,5,396.72,1983.6,413.05
+ORD-000613,2025-07-31,Eduardo Ribeiro,Monitor Samsung,Monitores,Sul,9,916.75,8250.75,2050.17
+ORD-000614,2025-11-12,Antonio Gomes,Fone Bluetooth,Áudio,Sul,5,215.43,1077.15,117.84
+ORD-000615,2025-08-12,Antonio Gomes,Cadeira Gamer,Móveis,Centro-Oeste,9,492.91,4436.19,1103.43
+ORD-000616,2025-05-12,Camila Araujo,Mesa Escritório,Móveis,Nordeste,6,440.82,2644.92,553.64
+ORD-000617,2025-12-03,Roberto Lima,Tablet iPad,Tablets,Centro-Oeste,8,1741.94,13935.52,3296.19
+ORD-000618,2025-05-04,Lucia Almeida,Cabo HDMI,Cabos,Norte,7,40.81,285.67,44.51
+ORD-000619,2025-06-13,Carlos Ferreira,Smartphone iPhone,Celulares,Sul,5,2807.9,14039.5,2713.36
+ORD-000620,2025-04-18,Maria Santos,Impressora HP,Impressoras,Centro-Oeste,10,369.15,3691.5,1057.53
+ORD-000621,2025-12-10,Juliana Rocha,Luminária LED,Iluminação,Sul,9,113.19,1018.71,261.61
+ORD-000622,2025-07-10,Felipe Nascimento,Fone Bluetooth,Áudio,Nordeste,9,165.45,1489.05,299.34
+ORD-000623,2025-08-29,Gabriela Cardoso,Carregador Portátil,Acessórios,Sudeste,2,75.18,150.36,41.6
+ORD-000624,2026-01-03,Marcos Barbosa,Memória RAM 16GB,Componentes,Centro-Oeste,5,354.95,1774.75,444.63
+ORD-000625,2025-10-27,Beatriz Castro,Carregador Portátil,Acessórios,Norte,2,85.41,170.82,32.31
+ORD-000626,2025-12-23,Camila Araujo,Microfone USB,Áudio,Nordeste,1,321.91,321.91,52.85
+ORD-000627,2025-03-28,Antonio Gomes,Webcam HD,Periféricos,Sul,5,145.78,728.9,148.24
+ORD-000628,2025-08-08,Felipe Nascimento,Cabo HDMI,Cabos,Sudeste,8,40.88,327.04,91.46
+ORD-000629,2025-05-07,Marcos Barbosa,Cabo HDMI,Cabos,Norte,2,43.35,86.7,25.25
+ORD-000630,2025-10-31,Gabriela Cardoso,Notebook Dell,Computadores,Norte,4,2670.34,10681.36,2720.72
+ORD-000631,2026-01-14,Carla Martins,Monitor Samsung,Monitores,Nordeste,9,905.2,8146.8,2246.3
+ORD-000632,2025-09-08,Pedro Oliveira,Impressora HP,Impressoras,Norte,8,489.04,3912.32,420.88
+ORD-000633,2025-03-07,Maria Santos,Smartphone iPhone,Celulares,Centro-Oeste,9,2898.62,26087.58,6895.57
+ORD-000634,2025-06-10,Carla Martins,Processador Intel,Componentes,Sudeste,7,778.57,5449.99,563.41
+ORD-000635,2026-01-08,Ana Costa,Carregador Portátil,Acessórios,Norte,10,66.02,660.2,164.52
+ORD-000636,2025-02-21,Pedro Oliveira,Placa de Vídeo,Componentes,Sul,2,1099.12,2198.24,521.37
+ORD-000637,2025-12-05,Pedro Oliveira,SSD 500GB,Armazenamento,Sudeste,7,335.32,2347.24,544.9
+ORD-000638,2025-09-28,Lucia Almeida,Carregador Portátil,Acessórios,Nordeste,3,87.9,263.7,68.39
+ORD-000639,2025-11-04,Juliana Rocha,Impressora HP,Impressoras,Centro-Oeste,6,532.33,3193.98,326.52
+ORD-000640,2025-11-09,Carlos Ferreira,Monitor Samsung,Monitores,Norte,1,823.27,823.27,147.21
+ORD-000641,2025-11-05,Pedro Oliveira,SSD 500GB,Armazenamento,Nordeste,6,309.64,1857.84,522.29
+ORD-000642,2025-10-18,Carlos Ferreira,Smartphone iPhone,Celulares,Nordeste,4,3663.64,14654.56,2206.22
+ORD-000643,2025-03-28,Lucia Almeida,Caixa de Som,Áudio,Norte,9,246.13,2215.17,465.04
+ORD-000644,2025-06-26,Pedro Oliveira,Webcam HD,Periféricos,Norte,4,196.24,784.96,154.98
+ORD-000645,2025-07-17,Patricia Dias,Impressora HP,Impressoras,Nordeste,2,411.32,822.64,93.75
+ORD-000646,2025-05-08,Marcos Barbosa,Luminária LED,Iluminação,Sudeste,6,125.58,753.48,121.41
+ORD-000647,2025-11-24,Carlos Ferreira,Caixa de Som,Áudio,Sul,6,280.77,1684.62,491.46
+ORD-000648,2025-04-25,João Silva,Memória RAM 16GB,Componentes,Nordeste,4,433.95,1735.8,396.05
+ORD-000649,2025-06-19,Patricia Dias,Impressora HP,Impressoras,Centro-Oeste,8,443.31,3546.48,609.1
+ORD-000650,2025-07-04,Beatriz Castro,Carregador Portátil,Acessórios,Norte,3,84.66,253.98,29.56
+ORD-000651,2025-06-21,Carlos Ferreira,Carregador Portátil,Acessórios,Nordeste,5,87.47,437.35,98.55
+ORD-000652,2025-03-08,João Silva,Cabo HDMI,Cabos,Norte,10,51.58,515.8,130.93
+ORD-000653,2025-05-17,Maria Santos,Carregador Portátil,Acessórios,Centro-Oeste,9,92.61,833.49,173.31
+ORD-000654,2025-12-29,Carlos Ferreira,Placa de Vídeo,Componentes,Sudeste,4,1387.89,5551.56,1209.8
+ORD-000655,2025-06-26,Carlos Ferreira,Mesa Escritório,Móveis,Sul,9,334.49,3010.41,520.12
+ORD-000656,2025-02-03,Fernanda Souza,Microfone USB,Áudio,Nordeste,9,256.84,2311.56,304.77
+ORD-000657,2025-11-14,Thiago Moreira,Impressora HP,Impressoras,Sudeste,6,367.28,2203.68,555.98
+ORD-000658,2025-05-27,Pedro Oliveira,Webcam HD,Periféricos,Centro-Oeste,4,147.08,588.32,83.16
+ORD-000659,2025-08-01,Antonio Gomes,Luminária LED,Iluminação,Sudeste,1,97.92,97.92,22.49
+ORD-000660,2025-03-22,Felipe Nascimento,Webcam HD,Periféricos,Centro-Oeste,10,183.19,1831.9,246.89
+ORD-000661,2025-12-29,Antonio Gomes,Placa de Vídeo,Componentes,Sul,2,1208.0,2416.0,423.44
+ORD-000662,2025-05-23,Felipe Nascimento,Processador Intel,Componentes,Centro-Oeste,6,795.8,4774.8,937.88
+ORD-000663,2025-12-04,João Silva,Cabo HDMI,Cabos,Nordeste,8,43.31,346.48,39.99
+ORD-000664,2025-12-24,Ricardo Pereira,Tablet iPad,Tablets,Nordeste,3,1725.89,5177.67,1141.18
+ORD-000665,2025-03-30,Fernanda Souza,Cadeira Gamer,Móveis,Centro-Oeste,2,595.56,1191.12,233.18
+ORD-000666,2025-05-16,Thiago Moreira,Smartphone iPhone,Celulares,Sudeste,1,3141.14,3141.14,394.46
+ORD-000667,2025-11-28,Lucia Almeida,Impressora HP,Impressoras,Sul,1,520.34,520.34,67.32
+ORD-000668,2025-04-24,Ricardo Pereira,Smartphone iPhone,Celulares,Sul,7,3639.1,25473.7,5418.79
+ORD-000669,2025-02-07,Juliana Rocha,Teclado Mecânico,Periféricos,Nordeste,8,312.78,2502.24,486.14
+ORD-000670,2025-10-02,Lucia Almeida,Fone Bluetooth,Áudio,Sudeste,10,171.42,1714.2,371.17
+ORD-000671,2025-05-02,Camila Araujo,Cabo HDMI,Cabos,Centro-Oeste,3,54.48,163.44,27.55
+ORD-000672,2025-09-18,Camila Araujo,Caixa de Som,Áudio,Norte,4,237.82,951.28,120.28
+ORD-000673,2025-02-06,Roberto Lima,Cabo HDMI,Cabos,Sul,7,56.53,395.71,87.49
+ORD-000674,2025-04-29,Beatriz Castro,Microfone USB,Áudio,Sul,1,345.33,345.33,71.24
+ORD-000675,2025-03-30,Pedro Oliveira,Luminária LED,Iluminação,Nordeste,10,121.89,1218.9,122.18
+ORD-000676,2026-01-11,Carla Martins,Cabo HDMI,Cabos,Sudeste,6,57.5,345.0,82.64
+ORD-000677,2025-09-05,Fernanda Souza,Luminária LED,Iluminação,Sudeste,6,124.27,745.62,185.12
+ORD-000678,2026-01-20,Thiago Moreira,Monitor Samsung,Monitores,Sudeste,3,721.45,2164.35,547.95
+ORD-000679,2025-03-12,Juliana Rocha,Microfone USB,Áudio,Sul,7,270.94,1896.58,191.73
+ORD-000680,2025-02-01,Thiago Moreira,Cabo HDMI,Cabos,Norte,9,40.14,361.26,83.42
+ORD-000681,2026-01-16,Marcos Barbosa,Cadeira Gamer,Móveis,Centro-Oeste,2,517.15,1034.3,238.21
+ORD-000682,2025-06-07,Ricardo Pereira,Carregador Portátil,Acessórios,Sudeste,10,75.7,757.0,117.42
+ORD-000683,2026-01-12,Antonio Gomes,Tablet iPad,Tablets,Sudeste,9,2227.03,20043.27,3938.37
+ORD-000684,2025-08-06,Gabriela Cardoso,Carregador Portátil,Acessórios,Sudeste,5,95.63,478.15,103.06
+ORD-000685,2026-01-25,Antonio Gomes,Impressora HP,Impressoras,Norte,4,440.39,1761.56,422.53
+ORD-000686,2025-04-21,Ana Costa,Tablet iPad,Tablets,Sul,7,2228.86,15602.02,4059.19
+ORD-000687,2025-12-09,Maria Santos,Smartphone iPhone,Celulares,Sudeste,1,3926.12,3926.12,1039.05
+ORD-000688,2025-09-27,Camila Araujo,Cadeira Gamer,Móveis,Norte,2,543.14,1086.28,189.19
+ORD-000689,2025-12-06,Maria Santos,Processador Intel,Componentes,Sudeste,10,849.98,8499.8,1336.97
+ORD-000690,2025-11-30,Maria Santos,Smartphone iPhone,Celulares,Sudeste,8,2814.99,22519.92,6082.94
+ORD-000691,2025-10-21,Juliana Rocha,Tablet iPad,Tablets,Norte,10,2008.44,20084.4,4814.03
+ORD-000692,2025-12-09,Lucia Almeida,Mouse Logitech,Periféricos,Centro-Oeste,4,159.3,637.2,188.06
+ORD-000693,2025-03-14,Ricardo Pereira,Processador Intel,Componentes,Centro-Oeste,7,769.74,5388.18,754.68
+ORD-000694,2025-02-05,Pedro Oliveira,Teclado Mecânico,Periféricos,Sul,5,327.14,1635.7,346.48
+ORD-000695,2025-11-23,Patricia Dias,Placa de Vídeo,Componentes,Centro-Oeste,4,1251.05,5004.2,695.11
+ORD-000696,2025-08-23,Thiago Moreira,Notebook Dell,Computadores,Centro-Oeste,3,2407.13,7221.39,875.9
+ORD-000697,2025-03-07,Felipe Nascimento,SSD 500GB,Armazenamento,Centro-Oeste,2,392.41,784.82,228.65
+ORD-000698,2025-10-31,Thiago Moreira,Webcam HD,Periféricos,Sudeste,7,184.55,1291.85,328.12
+ORD-000699,2025-07-21,Eduardo Ribeiro,Mesa Escritório,Móveis,Sul,1,397.12,397.12,60.19
+ORD-000700,2025-08-12,Fernanda Souza,Fone Bluetooth,Áudio,Centro-Oeste,7,236.44,1655.08,336.48
+ORD-000701,2025-02-02,Ricardo Pereira,Fone Bluetooth,Áudio,Centro-Oeste,2,191.91,383.82,95.86
+ORD-000702,2025-07-23,Pedro Oliveira,Carregador Portátil,Acessórios,Nordeste,8,74.04,592.32,85.12
+ORD-000703,2025-11-18,Ricardo Pereira,Smartphone iPhone,Celulares,Nordeste,8,3831.96,30655.68,4505.54
+ORD-000704,2025-06-01,Ricardo Pereira,Tablet iPad,Tablets,Nordeste,4,2267.95,9071.8,2424.59
+ORD-000705,2025-07-30,Carlos Ferreira,Monitor Samsung,Monitores,Norte,2,856.26,1712.52,398.48
+ORD-000706,2025-12-09,João Silva,Carregador Portátil,Acessórios,Norte,8,75.88,607.04,99.0
+ORD-000707,2025-11-19,Ricardo Pereira,Luminária LED,Iluminação,Nordeste,9,109.45,985.05,142.26
+ORD-000708,2025-11-20,Carlos Ferreira,Mouse Logitech,Periféricos,Sul,7,148.7,1040.9,216.67
+ORD-000709,2025-10-13,Patricia Dias,Processador Intel,Componentes,Nordeste,8,952.48,7619.84,1826.09
+ORD-000710,2025-09-21,Marcos Barbosa,Notebook Dell,Computadores,Norte,4,2379.43,9517.72,1143.55
+ORD-000711,2025-08-02,Camila Araujo,Webcam HD,Periféricos,Nordeste,9,162.93,1466.37,225.65
+ORD-000712,2025-12-08,Marcos Barbosa,Placa de Vídeo,Componentes,Nordeste,8,1163.49,9307.92,1710.97
+ORD-000713,2025-08-07,Patricia Dias,Processador Intel,Componentes,Centro-Oeste,8,697.56,5580.48,704.41
+ORD-000714,2025-11-19,Fernanda Souza,Monitor Samsung,Monitores,Centro-Oeste,4,817.71,3270.84,887.25
+ORD-000715,2025-05-09,Carlos Ferreira,Impressora HP,Impressoras,Sudeste,1,391.79,391.79,78.33
+ORD-000716,2025-12-17,Felipe Nascimento,Carregador Portátil,Acessórios,Centro-Oeste,8,73.6,588.8,125.08
+ORD-000717,2025-11-15,Maria Santos,Processador Intel,Componentes,Norte,3,659.21,1977.63,519.65
+ORD-000718,2025-09-29,Ana Costa,Mesa Escritório,Móveis,Centro-Oeste,5,377.75,1888.75,400.55
+ORD-000719,2025-06-09,Patricia Dias,Notebook Dell,Computadores,Sudeste,2,2351.09,4702.18,1109.32
+ORD-000720,2025-12-05,Roberto Lima,Caixa de Som,Áudio,Sul,9,217.45,1957.05,501.13
+ORD-000721,2025-07-29,Marcos Barbosa,Cabo HDMI,Cabos,Sudeste,8,57.79,462.32,81.47
+ORD-000722,2025-06-24,Eduardo Ribeiro,Impressora HP,Impressoras,Nordeste,6,435.93,2615.58,581.87
+ORD-000723,2025-08-24,Pedro Oliveira,Teclado Mecânico,Periféricos,Nordeste,6,267.39,1604.34,262.11
+ORD-000724,2025-06-27,Ricardo Pereira,Microfone USB,Áudio,Sudeste,5,346.52,1732.6,443.88
+ORD-000725,2025-08-02,Thiago Moreira,Cabo HDMI,Cabos,Sudeste,7,43.35,303.45,82.19
+ORD-000726,2025-04-03,Fernanda Souza,Webcam HD,Periféricos,Norte,4,156.02,624.08,75.27
+ORD-000727,2025-03-02,Beatriz Castro,Carregador Portátil,Acessórios,Norte,1,88.67,88.67,18.16
+ORD-000728,2025-03-12,Ana Costa,Webcam HD,Periféricos,Sul,3,150.07,450.21,128.9
+ORD-000729,2025-08-16,Juliana Rocha,Fone Bluetooth,Áudio,Nordeste,5,195.45,977.25,122.43
+ORD-000730,2025-10-25,Lucia Almeida,Notebook Dell,Computadores,Norte,6,2860.37,17162.22,2832.46
+ORD-000731,2025-09-29,Eduardo Ribeiro,Carregador Portátil,Acessórios,Centro-Oeste,9,78.24,704.16,206.96
+ORD-000732,2026-01-21,Gabriela Cardoso,Smartphone iPhone,Celulares,Sul,10,3439.16,34391.6,8590.41
+ORD-000733,2025-11-13,Carla Martins,Cabo HDMI,Cabos,Sul,5,58.18,290.9,57.11
+ORD-000734,2025-05-25,Pedro Oliveira,Mesa Escritório,Móveis,Centro-Oeste,6,385.95,2315.7,303.69
+ORD-000735,2025-02-03,João Silva,Cabo HDMI,Cabos,Nordeste,6,45.74,274.44,56.81
+ORD-000736,2026-01-16,Beatriz Castro,Luminária LED,Iluminação,Centro-Oeste,1,132.76,132.76,34.46
+ORD-000737,2025-11-30,Fernanda Souza,Notebook Dell,Computadores,Sul,6,2188.57,13131.42,3629.95
+ORD-000738,2025-09-09,Antonio Gomes,Fone Bluetooth,Áudio,Nordeste,7,226.27,1583.89,228.27
+ORD-000739,2025-03-10,Carla Martins,Fone Bluetooth,Áudio,Sul,10,224.61,2246.1,532.16
+ORD-000740,2025-06-23,Gabriela Cardoso,Webcam HD,Periféricos,Sudeste,4,205.45,821.8,112.16
+ORD-000741,2025-06-26,Ana Costa,Mesa Escritório,Móveis,Sul,8,363.54,2908.32,653.07
+ORD-000742,2025-05-05,Marcos Barbosa,Notebook Dell,Computadores,Nordeste,1,2969.72,2969.72,310.12
+ORD-000743,2025-03-22,Juliana Rocha,Webcam HD,Periféricos,Nordeste,8,196.35,1570.8,230.22
+ORD-000744,2025-04-16,João Silva,Luminária LED,Iluminação,Nordeste,6,116.17,697.02,179.24
+ORD-000745,2025-10-11,Patricia Dias,Mesa Escritório,Móveis,Norte,6,332.84,1997.04,499.49
+ORD-000746,2025-04-13,Maria Santos,Webcam HD,Periféricos,Sudeste,2,183.11,366.22,49.92
+ORD-000747,2025-06-06,Antonio Gomes,Notebook Dell,Computadores,Norte,4,2384.8,9539.2,2814.01
+ORD-000748,2025-06-04,Maria Santos,Tablet iPad,Tablets,Sudeste,2,2016.91,4033.82,1195.72
+ORD-000749,2025-09-28,Antonio Gomes,SSD 500GB,Armazenamento,Centro-Oeste,3,368.08,1104.24,119.74
+ORD-000750,2025-11-06,Felipe Nascimento,Monitor Samsung,Monitores,Centro-Oeste,8,844.33,6754.64,943.93
+ORD-000751,2025-02-24,Roberto Lima,Monitor Samsung,Monitores,Nordeste,7,743.84,5206.88,694.97
+ORD-000752,2025-06-19,Thiago Moreira,Monitor Samsung,Monitores,Sudeste,4,642.86,2571.44,278.74
+ORD-000753,2026-01-17,Beatriz Castro,Microfone USB,Áudio,Nordeste,6,332.5,1995.0,298.74
+ORD-000754,2025-10-11,Pedro Oliveira,Microfone USB,Áudio,Centro-Oeste,1,247.17,247.17,56.58
+ORD-000755,2026-01-23,Gabriela Cardoso,Monitor Samsung,Monitores,Nordeste,8,714.46,5715.68,1693.76
+ORD-000756,2025-12-25,Patricia Dias,Mesa Escritório,Móveis,Nordeste,1,430.28,430.28,73.85
+ORD-000757,2025-04-07,Ricardo Pereira,Mouse Logitech,Periféricos,Sudeste,8,153.54,1228.32,256.16
+ORD-000758,2025-10-06,Roberto Lima,Caixa de Som,Áudio,Nordeste,9,234.77,2112.93,520.8
+ORD-000759,2025-06-18,Camila Araujo,Carregador Portátil,Acessórios,Nordeste,2,81.0,162.0,30.76
+ORD-000760,2025-06-12,Gabriela Cardoso,Placa de Vídeo,Componentes,Sudeste,1,1332.44,1332.44,268.08
+ORD-000761,2025-05-03,João Silva,Microfone USB,Áudio,Centro-Oeste,10,268.65,2686.5,656.05
+ORD-000762,2026-01-01,Gabriela Cardoso,Processador Intel,Componentes,Nordeste,9,858.63,7727.67,1956.24
+ORD-000763,2025-04-17,Camila Araujo,SSD 500GB,Armazenamento,Centro-Oeste,7,369.73,2588.11,315.99
+ORD-000764,2025-10-23,Pedro Oliveira,Mouse Logitech,Periféricos,Nordeste,3,172.41,517.23,72.63
+ORD-000765,2025-10-04,Roberto Lima,Monitor Samsung,Monitores,Norte,10,845.36,8453.6,1502.37
+ORD-000766,2025-10-06,Felipe Nascimento,Microfone USB,Áudio,Sul,5,245.89,1229.45,177.22
+ORD-000767,2025-03-06,João Silva,Tablet iPad,Tablets,Sudeste,2,1974.45,3948.9,899.49
+ORD-000768,2025-08-01,Gabriela Cardoso,Cadeira Gamer,Móveis,Centro-Oeste,1,677.67,677.67,103.79
+ORD-000769,2025-02-18,Pedro Oliveira,SSD 500GB,Armazenamento,Norte,4,414.48,1657.92,198.0
+ORD-000770,2025-05-27,Gabriela Cardoso,Processador Intel,Componentes,Nordeste,4,808.38,3233.52,484.23
+ORD-000771,2025-12-15,Lucia Almeida,Carregador Portátil,Acessórios,Sul,7,87.88,615.16,155.79
+ORD-000772,2025-11-20,Patricia Dias,Mesa Escritório,Móveis,Sudeste,2,346.69,693.38,94.35
+ORD-000773,2025-08-22,Felipe Nascimento,Memória RAM 16GB,Componentes,Nordeste,9,479.75,4317.75,814.34
+ORD-000774,2025-07-28,Marcos Barbosa,Carregador Portátil,Acessórios,Centro-Oeste,6,77.19,463.14,104.97
+ORD-000775,2025-07-13,Camila Araujo,Fone Bluetooth,Áudio,Sul,9,177.11,1593.99,403.51
+ORD-000776,2025-06-08,Patricia Dias,Mesa Escritório,Móveis,Sudeste,7,320.03,2240.21,239.55
+ORD-000777,2025-06-23,Camila Araujo,Notebook Dell,Computadores,Sul,3,2993.41,8980.23,1440.14
+ORD-000778,2025-07-01,Fernanda Souza,Tablet iPad,Tablets,Centro-Oeste,1,2217.22,2217.22,640.04
+ORD-000779,2025-06-19,Gabriela Cardoso,Cabo HDMI,Cabos,Sul,10,58.52,585.2,76.63
+ORD-000780,2025-02-17,Eduardo Ribeiro,Placa de Vídeo,Componentes,Nordeste,3,1087.19,3261.57,906.47
+ORD-000781,2025-06-05,Fernanda Souza,Webcam HD,Periféricos,Centro-Oeste,2,185.08,370.16,79.15
+ORD-000782,2025-05-20,Pedro Oliveira,Memória RAM 16GB,Componentes,Sudeste,3,398.12,1194.36,334.19
+ORD-000783,2026-01-23,Thiago Moreira,Monitor Samsung,Monitores,Sul,5,651.96,3259.8,852.99
+ORD-000784,2025-08-12,Pedro Oliveira,Mouse Logitech,Periféricos,Centro-Oeste,6,172.79,1036.74,193.73
+ORD-000785,2025-03-31,Fernanda Souza,Microfone USB,Áudio,Norte,7,246.5,1725.5,353.51
+ORD-000786,2025-07-11,Gabriela Cardoso,Caixa de Som,Áudio,Nordeste,6,250.24,1501.44,216.45
+ORD-000787,2025-02-23,Antonio Gomes,Mesa Escritório,Móveis,Sul,10,400.76,4007.6,578.77
+ORD-000788,2025-06-26,Antonio Gomes,Impressora HP,Impressoras,Nordeste,6,374.86,2249.16,481.97
+ORD-000789,2025-02-23,Gabriela Cardoso,Processador Intel,Componentes,Centro-Oeste,2,767.53,1535.06,286.9
+ORD-000790,2026-01-21,Carlos Ferreira,Impressora HP,Impressoras,Sudeste,9,395.66,3560.94,637.64
+ORD-000791,2025-11-17,Roberto Lima,Carregador Portátil,Acessórios,Sul,9,71.88,646.92,73.96
+ORD-000792,2025-09-06,Marcos Barbosa,Caixa de Som,Áudio,Norte,2,267.17,534.34,98.7
+ORD-000793,2025-07-26,Roberto Lima,Memória RAM 16GB,Componentes,Centro-Oeste,10,424.87,4248.7,1078.9
+ORD-000794,2025-04-25,Patricia Dias,Microfone USB,Áudio,Sudeste,10,257.5,2575.0,280.61
+ORD-000795,2025-05-28,Roberto Lima,Placa de Vídeo,Componentes,Nordeste,2,1013.94,2027.88,224.91
+ORD-000796,2025-12-12,Carlos Ferreira,SSD 500GB,Armazenamento,Norte,6,377.13,2262.78,276.64
+ORD-000797,2025-09-16,Beatriz Castro,Notebook Dell,Computadores,Centro-Oeste,4,2740.01,10960.04,1560.44
+ORD-000798,2025-11-04,Felipe Nascimento,Webcam HD,Periféricos,Sul,8,188.86,1510.88,450.94
+ORD-000799,2026-01-19,João Silva,Processador Intel,Componentes,Sul,9,653.91,5885.19,788.99
+ORD-000800,2025-06-23,Roberto Lima,Microfone USB,Áudio,Centro-Oeste,1,295.8,295.8,85.5
+ORD-000801,2025-03-04,Antonio Gomes,Webcam HD,Periféricos,Centro-Oeste,2,145.37,290.74,79.51
+ORD-000802,2025-12-27,Antonio Gomes,Fone Bluetooth,Áudio,Sudeste,9,238.13,2143.17,257.01
+ORD-000803,2025-07-09,Beatriz Castro,Microfone USB,Áudio,Sul,2,262.37,524.74,105.02
+ORD-000804,2025-09-20,Gabriela Cardoso,Notebook Dell,Computadores,Norte,4,2922.27,11689.08,1881.77
+ORD-000805,2025-10-06,Antonio Gomes,Smartphone iPhone,Celulares,Norte,6,3758.04,22548.24,3857.45
+ORD-000806,2025-07-02,Fernanda Souza,Cabo HDMI,Cabos,Centro-Oeste,1,52.52,52.52,14.48
+ORD-000807,2025-02-13,Gabriela Cardoso,Webcam HD,Periféricos,Nordeste,3,168.61,505.83,90.33
+ORD-000808,2025-04-09,Pedro Oliveira,Processador Intel,Componentes,Sul,10,919.26,9192.6,2181.45
+ORD-000809,2025-08-30,Fernanda Souza,Caixa de Som,Áudio,Nordeste,7,297.05,2079.35,586.27
+ORD-000810,2025-07-16,Eduardo Ribeiro,Carregador Portátil,Acessórios,Nordeste,4,84.88,339.52,73.41
+ORD-000811,2026-01-14,Roberto Lima,Impressora HP,Impressoras,Centro-Oeste,9,523.72,4713.48,876.77
+ORD-000812,2025-04-13,Thiago Moreira,Smartphone iPhone,Celulares,Centro-Oeste,2,3580.28,7160.56,2074.56
+ORD-000813,2025-03-30,Lucia Almeida,Memória RAM 16GB,Componentes,Nordeste,1,442.47,442.47,122.13
+ORD-000814,2025-08-28,Carla Martins,SSD 500GB,Armazenamento,Sudeste,5,301.27,1506.35,207.25
+ORD-000815,2025-04-06,Lucia Almeida,Notebook Dell,Computadores,Sul,10,2266.86,22668.6,4837.67
+ORD-000816,2025-05-27,Camila Araujo,Fone Bluetooth,Áudio,Nordeste,1,188.74,188.74,44.85
+ORD-000817,2025-09-30,Carlos Ferreira,Cabo HDMI,Cabos,Sul,8,54.24,433.92,75.85
+ORD-000818,2025-08-15,Beatriz Castro,Luminária LED,Iluminação,Nordeste,3,105.28,315.84,33.62
+ORD-000819,2025-02-05,Ricardo Pereira,Cadeira Gamer,Móveis,Nordeste,4,661.87,2647.48,299.77
+ORD-000820,2025-09-10,Camila Araujo,Luminária LED,Iluminação,Centro-Oeste,8,138.6,1108.8,205.69
+ORD-000821,2025-02-19,Camila Araujo,Processador Intel,Componentes,Centro-Oeste,7,835.68,5849.76,1453.63
+ORD-000822,2025-11-29,Gabriela Cardoso,Cabo HDMI,Cabos,Norte,9,42.19,379.71,72.67
+ORD-000823,2025-02-19,Fernanda Souza,Cabo HDMI,Cabos,Sul,7,59.68,417.76,45.06
+ORD-000824,2025-08-15,Felipe Nascimento,Mouse Logitech,Periféricos,Nordeste,5,146.37,731.85,202.63
+ORD-000825,2025-06-24,Eduardo Ribeiro,Smartphone iPhone,Celulares,Sudeste,5,3658.39,18291.95,2028.75
+ORD-000826,2025-10-20,Carlos Ferreira,Mesa Escritório,Móveis,Sudeste,2,435.62,871.24,106.84
+ORD-000827,2025-11-24,Gabriela Cardoso,Impressora HP,Impressoras,Sudeste,7,418.22,2927.54,307.34
+ORD-000828,2025-09-18,Thiago Moreira,Tablet iPad,Tablets,Sudeste,2,1800.07,3600.14,858.07
+ORD-000829,2026-01-28,Lucia Almeida,Monitor Samsung,Monitores,Norte,2,865.99,1731.98,392.84
+ORD-000830,2025-03-13,Felipe Nascimento,Processador Intel,Componentes,Sul,10,943.92,9439.2,1658.8
+ORD-000831,2025-08-11,Maria Santos,Smartphone iPhone,Celulares,Centro-Oeste,10,4019.83,40198.3,10955.42
+ORD-000832,2025-04-22,Carlos Ferreira,Smartphone iPhone,Celulares,Norte,7,3231.29,22619.03,5565.01
+ORD-000833,2025-09-14,Juliana Rocha,Smartphone iPhone,Celulares,Norte,3,4144.61,12433.83,1252.17
+ORD-000834,2025-06-07,João Silva,Mesa Escritório,Móveis,Sudeste,8,406.96,3255.68,329.31
+ORD-000835,2025-10-08,Fernanda Souza,Tablet iPad,Tablets,Sul,8,1962.99,15703.92,2958.23
+ORD-000836,2025-12-02,Camila Araujo,Notebook Dell,Computadores,Nordeste,9,2278.11,20502.99,4628.08
+ORD-000837,2025-05-15,Maria Santos,Smartphone iPhone,Celulares,Nordeste,1,3714.59,3714.59,398.74
+ORD-000838,2025-02-14,Thiago Moreira,Microfone USB,Áudio,Centro-Oeste,6,350.45,2102.7,230.89
+ORD-000839,2025-08-30,Lucia Almeida,Smartphone iPhone,Celulares,Centro-Oeste,10,3725.29,37252.9,8939.55
+ORD-000840,2025-11-18,Gabriela Cardoso,Smartphone iPhone,Celulares,Sudeste,10,3304.26,33042.6,3541.11
+ORD-000841,2025-07-01,Marcos Barbosa,Placa de Vídeo,Componentes,Sudeste,2,1324.05,2648.1,711.44
+ORD-000842,2025-03-03,Juliana Rocha,Luminária LED,Iluminação,Nordeste,2,129.34,258.68,40.07
+ORD-000843,2025-10-25,Carla Martins,Cabo HDMI,Cabos,Nordeste,4,52.24,208.96,25.46
+ORD-000844,2025-12-17,Felipe Nascimento,Teclado Mecânico,Periféricos,Sudeste,10,352.07,3520.7,1046.55
+ORD-000845,2025-06-25,Carla Martins,Microfone USB,Áudio,Centro-Oeste,5,303.05,1515.25,453.07
+ORD-000846,2025-07-29,Carlos Ferreira,Microfone USB,Áudio,Sul,8,302.36,2418.88,547.57
+ORD-000847,2025-10-08,Lucia Almeida,Microfone USB,Áudio,Nordeste,5,357.51,1787.55,179.32
+ORD-000848,2025-02-10,Eduardo Ribeiro,Monitor Samsung,Monitores,Nordeste,10,959.68,9596.8,1754.37
+ORD-000849,2025-07-18,Patricia Dias,Carregador Portátil,Acessórios,Nordeste,1,84.5,84.5,20.11
+ORD-000850,2025-06-08,Pedro Oliveira,SSD 500GB,Armazenamento,Centro-Oeste,9,357.0,3213.0,814.2
+ORD-000851,2025-03-28,Marcos Barbosa,Memória RAM 16GB,Componentes,Sudeste,10,418.56,4185.6,442.93
+ORD-000852,2025-04-28,Roberto Lima,Memória RAM 16GB,Componentes,Centro-Oeste,8,466.59,3732.72,968.46
+ORD-000853,2025-12-25,Carlos Ferreira,Luminária LED,Iluminação,Nordeste,8,138.82,1110.56,230.32
+ORD-000854,2025-07-19,Eduardo Ribeiro,Cadeira Gamer,Móveis,Norte,9,551.84,4966.56,1216.77
+ORD-000855,2025-07-09,Gabriela Cardoso,Carregador Portátil,Acessórios,Norte,4,82.48,329.92,54.88
+ORD-000856,2025-07-29,Pedro Oliveira,Impressora HP,Impressoras,Centro-Oeste,1,421.05,421.05,73.7
+ORD-000857,2025-10-29,Lucia Almeida,Caixa de Som,Áudio,Sul,7,218.74,1531.18,188.9
+ORD-000858,2025-07-05,Marcos Barbosa,Mouse Logitech,Periféricos,Centro-Oeste,7,125.21,876.47,241.39
+ORD-000859,2025-08-07,Eduardo Ribeiro,SSD 500GB,Armazenamento,Nordeste,9,322.32,2900.88,355.2
+ORD-000860,2025-02-17,Roberto Lima,Teclado Mecânico,Periféricos,Sudeste,9,242.99,2186.91,429.8
+ORD-000861,2025-10-12,Carlos Ferreira,Tablet iPad,Tablets,Centro-Oeste,8,2185.95,17487.6,3580.16
+ORD-000862,2025-07-15,Carlos Ferreira,Monitor Samsung,Monitores,Sul,3,705.66,2116.98,227.17
+ORD-000863,2025-08-15,Felipe Nascimento,Monitor Samsung,Monitores,Norte,5,938.35,4691.75,1113.87
+ORD-000864,2025-11-29,Pedro Oliveira,Memória RAM 16GB,Componentes,Sudeste,1,336.5,336.5,85.21
+ORD-000865,2025-07-07,João Silva,Caixa de Som,Áudio,Centro-Oeste,4,232.09,928.36,128.59
+ORD-000866,2025-06-19,Gabriela Cardoso,Memória RAM 16GB,Componentes,Sudeste,2,363.62,727.24,95.63
+ORD-000867,2025-03-28,João Silva,Microfone USB,Áudio,Sul,9,252.29,2270.61,473.44
+ORD-000868,2025-11-06,Marcos Barbosa,Webcam HD,Periféricos,Nordeste,5,185.33,926.65,124.41
+ORD-000869,2025-07-07,Camila Araujo,Memória RAM 16GB,Componentes,Sul,8,328.12,2624.96,277.72
+ORD-000870,2026-01-09,Maria Santos,Monitor Samsung,Monitores,Sudeste,1,667.56,667.56,119.08
+ORD-000871,2026-01-24,Camila Araujo,Caixa de Som,Áudio,Sudeste,10,235.56,2355.6,392.13
+ORD-000872,2025-05-10,Gabriela Cardoso,Teclado Mecânico,Periféricos,Sudeste,10,255.82,2558.2,671.71
+ORD-000873,2026-01-21,Eduardo Ribeiro,Monitor Samsung,Monitores,Sudeste,5,859.03,4295.15,1039.61
+ORD-000874,2025-09-24,Beatriz Castro,Fone Bluetooth,Áudio,Nordeste,3,228.89,686.67,153.39
+ORD-000875,2025-08-03,Antonio Gomes,Smartphone iPhone,Celulares,Centro-Oeste,6,3434.6,20607.6,2185.49
+ORD-000876,2025-09-29,Ana Costa,Placa de Vídeo,Componentes,Sudeste,8,1365.97,10927.76,1709.66
+ORD-000877,2025-07-26,Camila Araujo,Caixa de Som,Áudio,Nordeste,9,210.29,1892.61,498.72
+ORD-000878,2025-03-24,Marcos Barbosa,Carregador Portátil,Acessórios,Norte,5,81.05,405.25,73.01
+ORD-000879,2025-08-28,Fernanda Souza,Microfone USB,Áudio,Nordeste,9,259.08,2331.72,458.12
+ORD-000880,2025-03-03,Marcos Barbosa,Tablet iPad,Tablets,Sul,7,2227.45,15592.15,2916.84
+ORD-000881,2025-07-23,Gabriela Cardoso,Fone Bluetooth,Áudio,Nordeste,2,219.15,438.3,106.24
+ORD-000882,2025-10-05,Ana Costa,Caixa de Som,Áudio,Sul,8,232.54,1860.32,222.37
+ORD-000883,2025-09-13,Lucia Almeida,SSD 500GB,Armazenamento,Sudeste,2,363.76,727.52,172.5
+ORD-000884,2025-11-30,Antonio Gomes,Memória RAM 16GB,Componentes,Sudeste,1,334.49,334.49,88.11
+ORD-000885,2025-11-22,João Silva,Impressora HP,Impressoras,Nordeste,8,455.63,3645.04,648.8
+ORD-000886,2025-11-20,Eduardo Ribeiro,Tablet iPad,Tablets,Nordeste,6,1839.79,11038.74,2857.59
+ORD-000887,2026-01-11,Juliana Rocha,Cadeira Gamer,Móveis,Centro-Oeste,2,619.85,1239.7,275.58
+ORD-000888,2025-10-17,Antonio Gomes,Impressora HP,Impressoras,Centro-Oeste,1,426.46,426.46,89.46
+ORD-000889,2025-02-25,João Silva,Carregador Portátil,Acessórios,Centro-Oeste,2,91.56,183.12,50.02
+ORD-000890,2025-05-29,Carla Martins,Caixa de Som,Áudio,Sudeste,6,271.18,1627.08,294.84
+ORD-000891,2025-09-08,Gabriela Cardoso,Tablet iPad,Tablets,Nordeste,8,1711.26,13690.08,2889.76
+ORD-000892,2025-08-01,Carla Martins,Impressora HP,Impressoras,Centro-Oeste,3,384.17,1152.51,131.79
+ORD-000893,2025-02-06,Carlos Ferreira,Luminária LED,Iluminação,Sudeste,3,100.06,300.18,68.58
+ORD-000894,2025-08-29,Eduardo Ribeiro,Microfone USB,Áudio,Sudeste,10,261.58,2615.8,528.09
+ORD-000895,2025-11-07,Eduardo Ribeiro,Processador Intel,Componentes,Centro-Oeste,4,699.45,2797.8,618.08
+ORD-000896,2025-11-20,Beatriz Castro,Fone Bluetooth,Áudio,Sul,5,192.87,964.35,201.77
+ORD-000897,2025-08-04,Maria Santos,Mouse Logitech,Periféricos,Sul,8,162.29,1298.32,159.22
+ORD-000898,2025-10-02,Pedro Oliveira,Impressora HP,Impressoras,Sul,5,443.69,2218.45,256.56
+ORD-000899,2025-12-07,Pedro Oliveira,Fone Bluetooth,Áudio,Sudeste,2,214.73,429.46,89.26
+ORD-000900,2025-11-21,Juliana Rocha,Microfone USB,Áudio,Norte,6,304.2,1825.2,186.46
+ORD-000901,2025-09-18,Felipe Nascimento,Luminária LED,Iluminação,Sul,6,116.21,697.26,203.68
+ORD-000902,2025-06-28,Juliana Rocha,Smartphone iPhone,Celulares,Norte,10,3849.2,38492.0,9445.72
+ORD-000903,2025-11-13,Ricardo Pereira,Mouse Logitech,Periféricos,Sudeste,10,130.14,1301.4,143.58
+ORD-000904,2025-06-27,Camila Araujo,Notebook Dell,Computadores,Centro-Oeste,8,2082.51,16660.08,3350.66
+ORD-000905,2025-06-20,Ricardo Pereira,Impressora HP,Impressoras,Sul,5,409.54,2047.7,310.0
+ORD-000906,2025-03-27,Camila Araujo,Smartphone iPhone,Celulares,Sul,3,3722.82,11168.46,1942.79
+ORD-000907,2025-04-28,Ricardo Pereira,Fone Bluetooth,Áudio,Sudeste,3,223.95,671.85,183.01
+ORD-000908,2025-07-23,Pedro Oliveira,Impressora HP,Impressoras,Sul,3,510.77,1532.31,383.92
+ORD-000909,2025-08-28,Antonio Gomes,Fone Bluetooth,Áudio,Sudeste,3,176.87,530.61,130.99
+ORD-000910,2025-07-24,Maria Santos,Webcam HD,Periféricos,Norte,1,156.07,156.07,28.05
+ORD-000911,2025-07-02,Beatriz Castro,Carregador Portátil,Acessórios,Nordeste,7,85.87,601.09,107.0
+ORD-000912,2025-06-12,Carlos Ferreira,Cabo HDMI,Cabos,Sudeste,1,45.78,45.78,11.88
+ORD-000913,2025-08-12,Marcos Barbosa,Cabo HDMI,Cabos,Norte,2,58.35,116.7,26.55
+ORD-000914,2025-09-07,Camila Araujo,Webcam HD,Periféricos,Centro-Oeste,5,163.23,816.15,97.66
+ORD-000915,2025-12-30,Thiago Moreira,Processador Intel,Componentes,Sudeste,4,874.98,3499.92,762.09
+ORD-000916,2025-05-08,Felipe Nascimento,Memória RAM 16GB,Componentes,Nordeste,6,407.62,2445.72,573.67
+ORD-000917,2025-03-04,João Silva,Cadeira Gamer,Móveis,Norte,9,504.94,4544.46,859.76
+ORD-000918,2025-05-21,Juliana Rocha,Webcam HD,Periféricos,Nordeste,1,145.71,145.71,17.25
+ORD-000919,2025-11-29,Roberto Lima,Microfone USB,Áudio,Norte,2,250.37,500.74,110.63
+ORD-000920,2025-08-09,Thiago Moreira,Smartphone iPhone,Celulares,Norte,3,3154.67,9464.01,1830.26
+ORD-000921,2025-03-08,Eduardo Ribeiro,Webcam HD,Periféricos,Sudeste,6,162.53,975.18,249.79
+ORD-000922,2025-06-19,Maria Santos,Processador Intel,Componentes,Sudeste,6,958.71,5752.26,872.32
+ORD-000923,2025-06-13,Lucia Almeida,Mesa Escritório,Móveis,Norte,8,476.71,3813.68,534.43
+ORD-000924,2025-08-18,Lucia Almeida,Luminária LED,Iluminação,Norte,3,121.95,365.85,68.14
+ORD-000925,2025-12-09,Ana Costa,Mesa Escritório,Móveis,Centro-Oeste,2,325.58,651.16,74.29
+ORD-000926,2025-06-06,Eduardo Ribeiro,Notebook Dell,Computadores,Sudeste,3,2652.87,7958.61,797.24
+ORD-000927,2025-02-17,Antonio Gomes,Webcam HD,Periféricos,Nordeste,6,209.13,1254.78,269.69
+ORD-000928,2025-10-19,Beatriz Castro,Luminária LED,Iluminação,Sudeste,7,136.51,955.57,244.81
+ORD-000929,2025-03-05,Gabriela Cardoso,Fone Bluetooth,Áudio,Norte,7,236.33,1654.31,436.07
+ORD-000930,2025-10-02,Ana Costa,Caixa de Som,Áudio,Sul,6,233.34,1400.04,224.8
+ORD-000931,2025-02-26,Pedro Oliveira,Placa de Vídeo,Componentes,Sul,6,998.62,5991.72,1149.98
+ORD-000932,2025-06-26,Roberto Lima,Smartphone iPhone,Celulares,Sul,1,4154.52,4154.52,964.46
+ORD-000933,2025-07-01,Antonio Gomes,Monitor Samsung,Monitores,Centro-Oeste,8,667.16,5337.28,1209.2
+ORD-000934,2025-05-06,Carlos Ferreira,Mouse Logitech,Periféricos,Nordeste,1,163.18,163.18,35.67
+ORD-000935,2025-10-06,Antonio Gomes,Teclado Mecânico,Periféricos,Sul,5,299.96,1499.8,439.43
+ORD-000936,2025-09-16,João Silva,Mouse Logitech,Periféricos,Centro-Oeste,1,140.26,140.26,34.25
+ORD-000937,2025-08-24,Ana Costa,Tablet iPad,Tablets,Sul,8,2352.07,18816.56,5156.49
+ORD-000938,2025-10-30,Carlos Ferreira,Caixa de Som,Áudio,Nordeste,2,203.69,407.38,52.27
+ORD-000939,2025-12-29,João Silva,Luminária LED,Iluminação,Sul,1,107.65,107.65,24.73
+ORD-000940,2025-02-05,Lucia Almeida,Mouse Logitech,Periféricos,Centro-Oeste,2,147.37,294.74,39.54
+ORD-000941,2025-11-27,Pedro Oliveira,Monitor Samsung,Monitores,Norte,8,830.39,6643.12,1482.25
+ORD-000942,2025-03-02,Roberto Lima,Cadeira Gamer,Móveis,Centro-Oeste,7,557.82,3904.74,1152.56
+ORD-000943,2025-11-19,Gabriela Cardoso,Impressora HP,Impressoras,Centro-Oeste,4,497.56,1990.24,435.1
+ORD-000944,2025-07-19,Pedro Oliveira,Monitor Samsung,Monitores,Centro-Oeste,3,882.42,2647.26,353.7
+ORD-000945,2025-08-06,Gabriela Cardoso,Smartphone iPhone,Celulares,Sudeste,4,4095.95,16383.8,1771.74
+ORD-000946,2025-03-21,Camila Araujo,Processador Intel,Componentes,Nordeste,1,921.48,921.48,107.02
+ORD-000947,2025-02-01,Lucia Almeida,Teclado Mecânico,Periféricos,Sul,5,289.95,1449.75,379.08
+ORD-000948,2025-09-29,Carlos Ferreira,Tablet iPad,Tablets,Nordeste,5,2018.47,10092.35,1840.91
+ORD-000949,2025-04-28,Camila Araujo,Mouse Logitech,Periféricos,Sul,3,163.03,489.09,108.78
+ORD-000950,2025-03-15,Juliana Rocha,Placa de Vídeo,Componentes,Sudeste,1,1227.7,1227.7,169.89
+ORD-000951,2025-10-27,Ana Costa,Microfone USB,Áudio,Centro-Oeste,9,300.9,2708.1,522.24
+ORD-000952,2025-12-15,Roberto Lima,Webcam HD,Periféricos,Norte,4,152.11,608.44,79.0
+ORD-000953,2025-09-28,Beatriz Castro,Smartphone iPhone,Celulares,Nordeste,1,2875.64,2875.64,497.02
+ORD-000954,2025-05-16,Carla Martins,Webcam HD,Periféricos,Centro-Oeste,10,201.97,2019.7,508.32
+ORD-000955,2025-02-20,Ana Costa,Mouse Logitech,Periféricos,Sul,3,129.48,388.44,41.1
+ORD-000956,2025-10-19,Ana Costa,Teclado Mecânico,Periféricos,Nordeste,8,311.12,2488.96,411.16
+ORD-000957,2025-05-10,Marcos Barbosa,Fone Bluetooth,Áudio,Norte,6,178.22,1069.32,157.64
+ORD-000958,2025-08-28,Roberto Lima,Processador Intel,Componentes,Nordeste,2,790.72,1581.44,311.36
+ORD-000959,2025-09-09,Carlos Ferreira,Tablet iPad,Tablets,Sul,8,1742.45,13939.6,2435.21
+ORD-000960,2025-09-20,Roberto Lima,Placa de Vídeo,Componentes,Centro-Oeste,4,1121.23,4484.92,477.28
+ORD-000961,2025-11-16,Maria Santos,Webcam HD,Periféricos,Nordeste,2,205.32,410.64,78.73
+ORD-000962,2025-04-26,Marcos Barbosa,Fone Bluetooth,Áudio,Centro-Oeste,10,172.54,1725.4,446.73
+ORD-000963,2025-12-08,Lucia Almeida,Caixa de Som,Áudio,Sul,4,208.65,834.6,226.51
+ORD-000964,2025-10-06,Roberto Lima,Caixa de Som,Áudio,Sudeste,8,227.92,1823.36,448.55
+ORD-000965,2025-06-04,Fernanda Souza,Memória RAM 16GB,Componentes,Sudeste,10,355.59,3555.9,1015.19
+ORD-000966,2025-04-15,Thiago Moreira,Notebook Dell,Computadores,Sudeste,1,2040.06,2040.06,396.04
+ORD-000967,2025-10-14,Maria Santos,Cadeira Gamer,Móveis,Sul,7,595.02,4165.14,1081.28
+ORD-000968,2025-03-20,Eduardo Ribeiro,Luminária LED,Iluminação,Nordeste,2,122.81,245.62,25.17
+ORD-000969,2025-08-25,Roberto Lima,Impressora HP,Impressoras,Centro-Oeste,5,403.03,2015.15,604.12
+ORD-000970,2025-02-06,Beatriz Castro,SSD 500GB,Armazenamento,Nordeste,8,400.11,3200.88,798.48
+ORD-000971,2025-02-10,Eduardo Ribeiro,Mesa Escritório,Móveis,Nordeste,7,349.59,2447.13,671.27
+ORD-000972,2025-12-15,Eduardo Ribeiro,Notebook Dell,Computadores,Norte,7,2893.43,20254.01,3373.94
+ORD-000973,2025-02-14,Juliana Rocha,Cadeira Gamer,Móveis,Centro-Oeste,10,610.18,6101.8,1579.73
+ORD-000974,2026-01-14,Pedro Oliveira,Microfone USB,Áudio,Centro-Oeste,1,301.77,301.77,85.1
+ORD-000975,2025-08-03,Maria Santos,Monitor Samsung,Monitores,Sudeste,6,788.91,4733.46,512.04
+ORD-000976,2025-08-04,Lucia Almeida,Carregador Portátil,Acessórios,Norte,9,86.7,780.3,109.98
+ORD-000977,2025-07-19,Fernanda Souza,Carregador Portátil,Acessórios,Norte,8,87.6,700.8,175.52
+ORD-000978,2026-01-23,Roberto Lima,Fone Bluetooth,Áudio,Centro-Oeste,6,231.83,1390.98,279.19
+ORD-000979,2025-09-02,Ricardo Pereira,Mouse Logitech,Periféricos,Norte,6,140.71,844.26,166.53
+ORD-000980,2025-10-25,Ana Costa,Luminária LED,Iluminação,Sul,9,139.17,1252.53,238.48
+ORD-000981,2025-08-05,Pedro Oliveira,Tablet iPad,Tablets,Sudeste,2,1664.14,3328.28,930.55
+ORD-000982,2025-06-25,Pedro Oliveira,Monitor Samsung,Monitores,Nordeste,5,675.85,3379.25,437.92
+ORD-000983,2025-04-16,Roberto Lima,Cabo HDMI,Cabos,Norte,5,48.33,241.65,57.15
+ORD-000984,2025-04-06,Beatriz Castro,Placa de Vídeo,Componentes,Sudeste,8,1314.1,10512.8,1096.45
+ORD-000985,2025-05-05,Pedro Oliveira,Notebook Dell,Computadores,Nordeste,9,2644.67,23802.03,4340.02
+ORD-000986,2025-07-23,Marcos Barbosa,Luminária LED,Iluminação,Sul,9,136.41,1227.69,232.1
+ORD-000987,2025-07-03,Thiago Moreira,Impressora HP,Impressoras,Centro-Oeste,3,502.07,1506.21,218.94
+ORD-000988,2025-08-07,Juliana Rocha,Mouse Logitech,Periféricos,Nordeste,6,137.06,822.36,239.51
+ORD-000989,2025-12-11,Lucia Almeida,Carregador Portátil,Acessórios,Centro-Oeste,3,95.14,285.42,76.45
+ORD-000990,2026-01-18,Carlos Ferreira,Smartphone iPhone,Celulares,Nordeste,2,2857.61,5715.22,933.44
+ORD-000991,2025-04-03,Eduardo Ribeiro,Webcam HD,Periféricos,Centro-Oeste,3,158.77,476.31,114.99
+ORD-000992,2026-01-04,Marcos Barbosa,Placa de Vídeo,Componentes,Nordeste,6,1175.25,7051.5,2080.85
+ORD-000993,2025-10-29,Juliana Rocha,Monitor Samsung,Monitores,Norte,7,937.94,6565.58,1665.71
+ORD-000994,2025-09-20,Marcos Barbosa,Impressora HP,Impressoras,Norte,9,535.61,4820.49,801.44
+ORD-000995,2026-01-25,Juliana Rocha,Luminária LED,Iluminação,Centro-Oeste,10,128.01,1280.1,332.72
+ORD-000996,2025-09-12,Marcos Barbosa,Monitor Samsung,Monitores,Sudeste,1,684.62,684.62,143.9
+ORD-000997,2025-07-05,João Silva,Processador Intel,Componentes,Sul,4,782.71,3130.84,370.99
+ORD-000998,2025-02-26,Camila Araujo,Tablet iPad,Tablets,Sul,9,1777.72,15999.48,4593.98
+ORD-000999,2025-06-20,Roberto Lima,Notebook Dell,Computadores,Norte,9,2849.45,25645.05,6037.17
+ORD-001000,2025-03-14,Felipe Nascimento,Processador Intel,Componentes,Nordeste,8,741.68,5933.44,1311.38
