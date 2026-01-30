@@ -36,10 +36,69 @@ st.markdown("""
         border-left: 4px solid #1f77b4;
     }
     .insight-box {
-        background-color: #e8f4fd;
-        padding: 1rem;
-        border-radius: 0.5rem;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 1.5rem;
+        border-radius: 15px;
         margin: 1rem 0;
+        box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+        border: 1px solid rgba(255,255,255,0.2);
+    }
+    .insight-box h4 {
+        color: #ffffff;
+        font-size: 1.3rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+        text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+    .insight-box ul {
+        list-style: none;
+        padding: 0;
+    }
+    .insight-box li {
+        background: rgba(255,255,255,0.1);
+        margin: 0.5rem 0;
+        padding: 0.8rem;
+        border-radius: 8px;
+        font-size: 1.1rem;
+        font-weight: 500;
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255,255,255,0.2);
+    }
+    .insight-box strong {
+        color: #FFD700;
+        font-weight: bold;
+    }
+    .insight-performance {
+        background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+    }
+    .insight-temporal {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    .recommendations-box {
+        background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+        color: #333;
+        padding: 1.5rem;
+        border-radius: 15px;
+        margin: 1rem 0;
+        box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+    }
+    .recommendations-box h3 {
+        color: #d63384;
+        font-size: 1.4rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    .recommendations-box ol {
+        font-size: 1.1rem;
+        line-height: 1.8;
+    }
+    .recommendations-box li {
+        margin: 0.8rem 0;
+        padding: 0.5rem;
+        background: rgba(255,255,255,0.3);
+        border-radius: 8px;
+        font-weight: 500;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -263,7 +322,7 @@ with col2:
 
 # Insights automáticos
 st.markdown("---")
-st.subheader("💡 Insights Automáticos")
+st.markdown('<h2 style="text-align: center; color: #1f77b4; font-size: 2rem; margin-bottom: 2rem;">💡 Insights Automáticos</h2>', unsafe_allow_html=True)
 
 insights = generate_insights(df_filtered)
 
@@ -271,7 +330,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.markdown(f"""
-    <div class="insight-box">
+    <div class="insight-box insight-performance">
     <h4>🎯 Destaques de Performance</h4>
     <ul>
     <li><strong>Categoria Líder:</strong> {insights['best_category']}</li>
@@ -283,7 +342,7 @@ with col1:
 
 with col2:
     st.markdown(f"""
-    <div class="insight-box">
+    <div class="insight-box insight-temporal">
     <h4>📊 Análise Temporal</h4>
     <ul>
     <li><strong>Melhor Mês:</strong> {insights['best_month']}</li>
@@ -294,14 +353,19 @@ with col2:
     """, unsafe_allow_html=True)
 
 # Recomendações
-st.subheader("🚀 Recomendações Estratégicas")
+st.markdown("---")
 st.markdown(f"""
-1. **🎯 Foco na Categoria Líder**: Investir mais recursos em {insights['best_category']}
-2. **🌎 Expansão Regional**: Replicar estratégias da região {insights['best_region']} em outras áreas
-3. **👥 Programa de Fidelidade**: Criar programa especial para top clientes
-4. **📦 Gestão de Estoque**: Aumentar estoque de {insights['best_product']}
-5. **📊 Análise Sazonal**: Aproveitar picos do mês {insights['best_month']}
-""")
+<div class="recommendations-box">
+<h3>🚀 Recomendações Estratégicas</h3>
+<ol>
+<li><strong>🎯 Foco na Categoria Líder:</strong> Investir mais recursos em {insights['best_category']}</li>
+<li><strong>🌎 Expansão Regional:</strong> Replicar estratégias da região {insights['best_region']} em outras áreas</li>
+<li><strong>👥 Programa de Fidelidade:</strong> Criar programa especial para top clientes</li>
+<li><strong>📦 Gestão de Estoque:</strong> Aumentar estoque de {insights['best_product']}</li>
+<li><strong>📊 Análise Sazonal:</strong> Aproveitar picos do mês {insights['best_month']}</li>
+</ol>
+</div>
+""", unsafe_allow_html=True)
 
 # Footer
 st.markdown("---")
