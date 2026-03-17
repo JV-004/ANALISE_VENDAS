@@ -268,11 +268,11 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**João Vittor Fontes**
 
-- LinkedIn: [seu-linkedin]
-- GitHub: [seu-github]
-- Email: [seu-email]
+- LinkedIn: [linkedin.com/in/joãovittorfontes](https://www.linkedin.com/in/joãovittorfontes)
+- GitHub: [github.com/JV-004](https://github.com/JV-004)
+- Email: fontesjoaovittor@gmail.com
 
 ---
 
