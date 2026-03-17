@@ -11,7 +11,6 @@ DATA_DIR = PROJECT_ROOT / "data"
 NOTEBOOKS_DIR = PROJECT_ROOT / "notebooks"
 SRC_DIR = PROJECT_ROOT / "src"
 DOCS_DIR = PROJECT_ROOT / "docs"
-ASSETS_DIR = PROJECT_ROOT / "assets"
 TESTS_DIR = PROJECT_ROOT / "tests"
 
 # Arquivos de dados

@@ -225,14 +225,14 @@ analise-vendas/
 
 ### Básico
 
-- [ ] Exportação de relatórios (PDF/Excel)
-- [ ] Mais filtros avançados
-- [ ] Alertas automáticos
+- [x] Exportação de relatórios (PDF/Excel)
+- [x] Mais filtros avançados
+- [x] Alertas automáticos
 
 ### Intermediário
 
-- [ ] Previsão de vendas (Machine Learning)
-- [ ] Segmentação de clientes (K-Means)
+- [x] Previsão de vendas (Machine Learning)
+- [x] Segmentação de clientes (K-Means)
 - [ ] Análise de coorte
 - [ ] Detecção de anomalias
 
